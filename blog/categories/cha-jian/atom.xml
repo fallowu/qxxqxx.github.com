@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: 插件 | 我系蚯蚓啊's Blog]]></title>
+  <link href="http://yoursite.com/blog/categories/cha-jian/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2013-08-13T17:25:10+08:00</updated>
+  <id>http://yoursite.com/</id>
+  <author>
+    <name><![CDATA[蚯蚓]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[【我装的所有插件----45个】]]></title>
+    <link href="http://yoursite.com/my-tweaks/"/>
+    <updated>2013-08-10T20:23:00+08:00</updated>
+    <id>http://yoursite.com/my-tweaks</id>
+    <content type="html"><![CDATA[<h1>Action Menu</h1>
+
+<p>输入增强</p>
+
+<h1>Action Menu Plus Pack</h1>
+
+<p>输入增强</p>
+
+<!--more-->
+
+
+<h1>Activator</h1>
+
+<p>手势</p>
+
+<h1>akLocationX</h1>
+
+<p>修改定位</p>
+
+<h1>Aplo</h1>
+
+<p>主题</p>
+
+<h1>AppCent</h1>
+
+<p>下载百分比</p>
+
+<h1>AppInfo</h1>
+
+<p>软件插件信息查看</p>
+
+<h1>ayecon</h1>
+
+<p>主题</p>
+
+<h1>BytaFont</h1>
+
+<p>字体切换</p>
+
+<h1>Bolt</h1>
+
+<p>状态栏电池</p>
+
+<h1>Clear Badges</h1>
+
+<p>双击清理角标</p>
+
+<h1>dafeijiPatch</h1>
+
+<p>微信打飞机开挂</p>
+
+<h1>DietBulletin</h1>
+
+<p>推送挑缩小到状态栏</p>
+
+<h1>Display Recorder</h1>
+
+<p>屏幕录像</p>
+
+<h1>DisplayCandy</h1>
+
+<p>软件开启，关闭，切换 动画改变</p>
+
+<h1>f.lux</h1>
+
+<p>屏幕晚上自动暖色</p>
+
+<h1>Fake Operator</h1>
+
+<p>修改网标</p>
+
+<h1>IAPFree</h1>
+
+<p>内购</p>
+
+<h1>iCleaner Pro</h1>
+
+<p>神器，清理</p>
+
+<h1>iFile</h1>
+
+<p>文件管理</p>
+
+<h1>Infinidock</h1>
+
+<p>无限dock</p>
+
+<h1>iOS7 Control Toggle Icons</h1>
+
+<p>ios7 control center ncsettings主题</p>
+
+<h1>LockSecondslndicator</h1>
+
+<p>锁屏时间秒数</p>
+
+<h1>MobileTerminal</h1>
+
+<p>终端</p>
+
+<h1>NativeQR</h1>
+
+<p>二维码</p>
+
+<h1>NCsettings</h1>
+
+<p>通知中心 快捷开关</p>
+
+<h1>NEW iOS 7 Singal Bars</h1>
+
+<p>ios7的5个原点信号</p>
+
+<h1>NoSpot</h1>
+
+<p>隐藏spotlight</p>
+
+<h1>OpenSSH</h1>
+
+<p>SSH</p>
+
+<h1>PanoMod</h1>
+
+<p>开启全景</p>
+
+<h1>PasswordPilot</h1>
+
+<p>app store纪录密码</p>
+
+<h1>Private Space</h1>
+
+<p>自定义ios6的分享</p>
+
+<h1>SafariSwepez</h1>
+
+<p>safari标签滑动关闭</p>
+
+<h1>SemiTether</h1>
+
+<p>不完美越狱必备</p>
+
+<h1>Swipebright</h1>
+
+<p>手势调亮度</p>
+
+<h1>SwipeSelection</h1>
+
+<p>输入增强</p>
+
+<h1>SwitcherCleaner</h1>
+
+<p>后台增强</p>
+
+<h1>Tap to Widgets</h1>
+
+<h1>Uninstall Application Size</h1>
+
+<p>卸载软件时显示软件大小</p>
+
+<h1>WinterBoard</h1>
+
+<p>主题切换</p>
+
+<h1>Zekton字体</h1>
+
+<p>字体</p>
+
+<h1>Zephyr</h1>
+
+<p>手势后台</p>
+
+<h1>方正稚艺</h1>
+
+<p>字体</p>
+
+<h1>搜狗输入法</h1>
+
+<p>输入法</p>
+
+<h1>2*2 Folder Icons</h1>
+
+<p>文件夹略缩图</p>
+]]></content>
+  </entry>
+  
+</feed>

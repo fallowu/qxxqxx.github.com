@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: 教程 | 我系蚯蚓啊's Blog]]></title>
+  <link href="http://yoursite.com/blog/categories/jiao-cheng/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2013-08-13T17:25:10+08:00</updated>
+  <id>http://yoursite.com/</id>
+  <author>
+    <name><![CDATA[蚯蚓]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[【A4设备iOS 6.1.3不完美越狱教程】]]></title>
+    <link href="http://yoursite.com/a4-tethered-jailbreak/"/>
+    <updated>2013-08-12T22:31:00+08:00</updated>
+    <id>http://yoursite.com/a4-tethered-jailbreak</id>
+    <content type="html"><![CDATA[<h1>请尊重作者劳动，随手回复(在最下面)</h1>
+
+<blockquote><h2><br/><li>1.首先下载打开 Redsn0w 0.9.15b3 （点击下载：<a href="/images/A4-ios6.1.3-jailbreak/redsn0w_win_0.9.15b3.rar">Win</a>，<a href="/images/A4-ios6.1.3-jailbreak/redsn0w.zip">Mac</a>) 和 A4设备iOS 6.0 的.ipsw固件</h2>
+
+<h2><li>2.点击 Extras</h2>
+
+<p><img src="/images/A4-ios6.1.3-jailbreak/1.png" alt="" /></p></blockquote>
+
+<!--more-->
+
+
+<blockquote><h2><li>3.点击 Select IPSW</h2>
+
+<p><img src="/images/A4-ios6.1.3-jailbreak/2.png" alt="" /></p>
+
+<h2><li>4.选择 对应设备 iOS 6.0 的固件</h2>
+
+<p><img src="/images/A4-ios6.1.3-jailbreak/3.png" alt="" />
+<img src="/images/A4-ios6.1.3-jailbreak/4.png" alt="" /></p>
+
+<h2><li>5.点击 Back</h2>
+
+<p><img src="/images/A4-ios6.1.3-jailbreak/5.png" alt="" /></p>
+
+<h2><li>6.点击 Jailbreak</h2>
+
+<p><img src="/images/A4-ios6.1.3-jailbreak/6.png" alt="" /></p>
+
+<h2><li>7.等待处理越狱文件</h2>
+
+<p><img src="/images/A4-ios6.1.3-jailbreak/7.png" alt="" /></p>
+
+<h2><li>8.点击 Next</h2>
+
+<p><img src="/images/A4-ios6.1.3-jailbreak/8.png" alt="" /></p></blockquote>
+
+<h2><li>9.进入DFU 模式</h2>
+
+<blockquote><p><img src="/images/A4-ios6.1.3-jailbreak/9.png" alt="" />
+<img src="/images/A4-ios6.1.3-jailbreak/10.png" alt="" /></p>
+
+<h2><li>10.等待越狱完成</h2>
+
+<h1>这个时候手机上会出现大菠萝一个，请等待，5分钟左右</h1></blockquote>
+
+<h1>因为是不完美越狱，所以需要引导开机（刚刚越狱完毕开机，是没有Cydia的，需要重启一遍手机才会出现）</h1>
+
+<h1><br/><li>以下是引导开机：</h1>
+
+<blockquote><h2><li>1.打开 Redsn0w 0.9.15b3</h2>
+
+<h2><li>2.点击 Extras</h2>
+
+<p><img src="/images/A4-ios6.1.3-jailbreak/1.png" alt="" /></p>
+
+<h2><li>3.点击 Select IPSW</h2>
+
+<p><img src="/images/A4-ios6.1.3-jailbreak/2.png" alt="" /></p>
+
+<h2><li>4.选择 对应设备 iOS 6.0 的固件</h2>
+
+<p><img src="/images/A4-ios6.1.3-jailbreak/3.png" alt="" />
+<img src="/images/A4-ios6.1.3-jailbreak/4.png" alt="" /></p>
+
+<h2><li>5.点击 Just Boot</h2>
+
+<p><img src="/images/A4-ios6.1.3-jailbreak/5.png" alt="" /></p>
+
+<h2><li>6.进入DFU模式</h2>
+
+<p><img src="/images/A4-ios6.1.3-jailbreak/9.png" alt="" />
+<img src="/images/A4-ios6.1.3-jailbreak/10.png" alt="" /></p>
+
+<h2><li>7.等待完成，如果手机上出现菠萝，代表引导开机成功，只需等待</h2></blockquote>
+
+<h1><br/><li>不完美越狱完成，仅限A4设备</h1>
+
+<h1><br/><br/><strong>大家有什么不懂的去 新浪微博 <a href="http://weibo.com/qzoro">@我系蚯蚓啊</a>找我，尽量为大家解答吧！！(求粉)</strong></h1>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[【在电脑上，ios设备上制作.deb插件汉化包】]]></title>
+    <link href="http://yoursite.com/deb-cn/"/>
+    <updated>2013-07-22T14:55:00+08:00</updated>
+    <id>http://yoursite.com/deb-cn</id>
+    <content type="html"><![CDATA[<blockquote><h1>请尊重作者劳动，随手回复(在最下面)</h1>
+
+<h3>1.如何汉化插件？   请看我的第 1 篇教程：  <a href="http://qxxqxx.github.io/blog/2013/03/02/hanhua/">http://qxxqxx.github.io/blog/2013/03/02/hanhua/</a></h3>
+
+<h3>2.认识什么是.deb  请看我的第 2 篇教程：<a href="http://qxxqxx.github.io/blog/2013/05/31/ubuntu-deb/">http://qxxqxx.github.io/blog/2013/05/31/ubuntu-deb/</a>   （建议看完此文，再看本文）</h3></blockquote>
+
+<p>====================================================================================================</p>
+
+<blockquote><h1>准备工作：</h1>
+
+<h2>电脑上：必须使用linux系统（mac上需要安装 fink 或者 macport ） fink安装请参考此贴：<a href="http://bbs.weiphone.com/read-htm-tid-5596730.html">http://bbs.weiphone.com/read-htm-tid-5596730.html</a></h2>
+
+<h2>ios上：   必须 越狱 且安装 MobileTerminal</h2>
+
+<p><img src="/images/deb-CN/1.png" alt="" />
+<img src="/images/deb-CN/2.png" alt="" /></p></blockquote>
+
+<h2>.strings文件模板：<a href="/images/deb-CN/%E6%A8%A1%E6%9D%BF.strings.zip">点击下载</a></h2>
+
+<pre><code>&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"&gt;
+&lt;plist version="1.0"&gt;
+&lt;dict&gt;
+    &lt;key&gt;&lt;/key&gt;
+    &lt;string&gt;&lt;/string&gt;
+    &lt;key&gt;&lt;/key&gt;
+    &lt;string&gt;&lt;/string&gt;
+&lt;/dict&gt;
+&lt;/plist&gt;
+</code></pre>
+
+<!--more-->
+
+
+<p>====================================================================================================</p>
+
+<h1>教程开始：</h1>
+
+<h1>电脑上：(我的系统是mac os x，且已安装fink)</h1>
+
+<blockquote><h2>1.创建需要 同 放置汉化.strings路径一样 的 文件夹 （看完我的第一篇教程：<a href="http://qxxqxx.github.io/blog/2013/03/02/hanhua/">http://qxxqxx.github.io/blog/2013/03/02/hanhua/</a>）</h2>
+
+<h3>现在我正在制作 DietBulletin汉化包 ，汉化.strings 需要放到 /Library/PreferenceLoader/Preferences/zh_CN.lproj 里。。看图</h3>
+
+<p><img src="/images/deb-CN/3.png" alt="" /></p>
+
+<h2>2.创建DEBIAN文件夹（在此deb文件夹的根目录）并在里面创建 control 文件</h2>
+
+<h3>（看我的第二篇教程：<a href="http://qxxqxx.github.io/blog/2013/05/31/ubuntu-deb/">http://qxxqxx.github.io/blog/2013/05/31/ubuntu-deb/</a>）</h3>
+
+<p><img src="/images/deb-CN/4.png" alt="" /><br/>
+<img src="/images/deb-CN/5.png" alt="" /></p>
+
+<h2>3. 打开终端，获取su权限</h2>
+
+<p><img src="/images/deb-CN/6.png" alt="" /></p>
+
+<h2>4. 输入命令 看图</h2>
+
+<p><img src="/images/deb-CN/7.png" alt="" /></p>
+
+<h2>回车</h2>
+
+<p><img src="/images/deb-CN/8.png" alt="" /></p>
+
+<h2>至此一个deb汉化包已完成，放到ifile安装就行了。</h2>
+
+<p><img src="/images/deb-CN/9.png" alt="" /></p></blockquote>
+
+<p>====================================================================================================</p>
+
+<h1>ios设备上：</h1>
+
+<blockquote><h2>1.把你刚刚的创建的文件夹放到：/var/mobile 里</h2>
+
+<p><img src="/images/deb-CN/10.png" alt="" /></p>
+
+<h2>2.打开MobileTerminal，获取su权限</h2>
+
+<p><img src="/images/deb-CN/11.png" alt="" /></p>
+
+<h2>3. 输入命令，回车。。看图 （跟电脑上一样的）</h2>
+
+<p><img src="/images/deb-CN/12.png" alt="" /></p>
+
+<h2>4.ifile：deb包已经生成</h2>
+
+<p><img src="/images/deb-CN/13.png" alt="" /></p></blockquote>
+
+<p>====================================================================================================</p>
+
+<h1><strong>大家有什么不懂的去 新浪微博 <a href="http://weibo.com/qzoro">@我系蚯蚓啊</a>找我，尽量为大家解答吧！！(求粉)</strong></h1>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[【ubuntu上制作.deb详细图文教程】]]></title>
+    <link href="http://yoursite.com/ubuntu-deb/"/>
+    <updated>2013-05-31T23:20:00+08:00</updated>
+    <id>http://yoursite.com/ubuntu-deb</id>
+    <content type="html"><![CDATA[<blockquote><h3>这是我写的第二篇教程&mdash;&mdash;&mdash;&mdash;ubuntu上制作deb</h3>
+
+<h1>请尊重作者劳动，随手回复(在最下面)</h1>
+
+<h3>如何汉化插件？   请看我的第一篇教程：  <a href="http://qxxqxx.github.io/blog/2013/03/02/hanhua/">http://qxxqxx.github.io/blog/2013/03/02/hanhua/</a></h3></blockquote>
+
+<p>====================================================================================================</p>
+
+<blockquote><h1>Changelog：</h1>
+
+<blockquote><h2>5月31日   开帖  完成   Part One</h2>
+
+<h2>6月1日      更新打包deb  例子1</h2>
+
+<h2>6月1日    deb制作教程:   <a href="http://qxxqxx.github.io/blog/2013/05/31/ubuntu-deb/">http://qxxqxx.github.io/blog/2013/05/31/ubuntu-deb/</a></h2>
+
+<h2>7月22日  更新插件汉化包在ios上的制作方法 ：<a href="http://qxxqxx.github.io/blog/2013/07/22/deb-cn/">http://qxxqxx.github.io/blog/2013/07/22/deb-cn/</a></h2></blockquote></blockquote>
+
+<!--more-->
+
+
+<p>====================================================================================================</p>
+
+<blockquote><h1>首先认识一下什么是.deb</h1>
+
+<h3>deb 是 Unix 系统(其实主要是 Linux )下的安装包，基于 tar 包，因此本身会记录文件的权限(读/写/可执行)以及所有者/用户组。</h3>
+
+<h3>由于 Unix 类系统对权限、所有者、组的严格要求，而 deb 格式安装包又经常会涉及到系统比较底层的操作，所以权限等的设置尤其重要。</h3>
+
+<h1>deb 包本身有三部分组成：</h1>
+
+<blockquote><h3>1.数据包，包含实际安装的程序数据，文件名为 data.tar.XXX；</h3>
+
+<h3>2.安装信息及控制脚本包，包含 deb 的安装说明，标识，脚本等，文件名为 control.tar.gz；</h3>
+
+<h3>3.最后一个是 deb 文件的一些二进制数据，包括文件头等信息，一般看不到，在某些软件中打开可以看到。</h3></blockquote>
+
+<h3>deb 本身可以使用不同的压缩方式。tar 格式并不是一种压缩格式，而是直接把分散的文件和目录集合在一起，并记录其权限等数据信息。之前提到过的 data.tar.XXX，这里 XXX 就是经过压缩后的后缀名。deb 默认使用的压缩格式为 gzip 格式，所以最常见的就是 data.tar.gz。常有的压缩格式还有 bzip2 和 lzma，其中 lzma 压缩率最高，但压缩需要的 CPU 资源和时间都比较长。</h3>
+
+<h3>data.tar.gz包含的是实际安装的程序数据，而在安装过程中，该包里的数据会被直接解压到根目录(即 / )，因此在打包之前需要根据文件所在位置设置好相应的文件/目录树。</h3>
+
+<h1>而 control.tar.gz 则包含了一个 deb 安装的时候所需要的控制信息。一般有 5 个文件：</h1>
+
+<blockquote><h3>control，用了记录软件标识，版本号，平台，依赖信息等数据；</h3>
+
+<h3>preinst，在解包 data.tar.gz 前运行的脚本；</h3>
+
+<h3>postinst，在解包数据后运行的脚本；</h3>
+
+<h3>prerm，卸载时，在删除文件之前运行的脚本；</h3>
+
+<h3>postrm，在删除文件之后运行的脚本；</h3></blockquote>
+
+<h2>在 Cydia 系统中，Cydia 的作者 Saurik 另外添加了一个脚本，extrainst_，作用与 postinst 类似。</h2></blockquote>
+
+<p>====================================================================================================</p>
+
+<blockquote><h1>准备工作：</h1>
+
+<h3>Ubuntu 13.04    下载地址：<a href="http://www.ubuntu.com/download/desktop/zh-CN">http://www.ubuntu.com/download/desktop/zh-CN</a></h3>
+
+<p><img src="/images/ubuntu-deb/1.png" alt="" /></p>
+
+<h3>建议直接在电脑上安装，不要用虚拟机</h3>
+
+<h2>认识dpkg-deb命令（查看大图）</h2>
+
+<p><img src="/images/ubuntu-deb/2.png" alt="" /></p></blockquote>
+
+<h2>control模板：</h2>
+
+<pre><code>Package: app.weiphone.qxxqxx
+Name:  deb的名字，可以是中文
+Version: 1.0
+Architecture: iphoneos-arm  
+Depends:
+Description:  描述
+Maintainer: 维护人
+Author: qxxqxx &lt;&gt;
+</code></pre>
+
+<p>====================================================================================================</p>
+
+<h1>Part One   解包</h1>
+
+<blockquote><h2>1. Alt+crtl+t 打开终端</h2>
+
+<p><img src="/images/ubuntu-deb/3.png" alt="" /></p>
+
+<h2>2.   首先要有一个deb  这里的是weiphone源图标 方便演示放到桌面</h2>
+
+<p><img src="/images/ubuntu-deb/4.png" alt="" /></p>
+
+<h2>3. 在终端 用ls  和  cd  命令定位到桌面和查看桌面的文件</h2>
+
+<p><img src="/images/ubuntu-deb/5.png" alt="" /></p>
+
+<h2>4. 解包.deb</h2>
+
+<h2>dpkg-deb -e</h2>
+
+<h2>dpkg-deb -x</h2>
+
+<h2>输入第一条命令</h2>
+
+<p><img src="/images/ubuntu-deb/6.png" alt="" /></p>
+
+<h2>回车后，在1 文件夹里，就是deb的主文件了</h2>
+
+<p><img src="/images/ubuntu-deb/7.png" alt="" /></p>
+
+<h2>输入第二条命令</h2>
+
+<p><img src="/images/ubuntu-deb/8.png" alt="" /></p>
+
+<h2>回车后，在1 文件夹里，就是deb的DEBIAN文件夹</h2>
+
+<p><img src="/images/ubuntu-deb/9.png" alt="" /></p>
+
+<h2>至此。一个deb就被完全解包了。。</h2></blockquote>
+
+<p>====================================================================================================</p>
+
+<h1>Part Two  打包制作deb</h1>
+
+<h2>首先了解一下deb的原理</h2>
+
+<h3>deb包里有和在ios里路径一样的文件夹（大家自己随便解包一个来看看）。安装时就是把deb里面的文件覆盖或复制到deb包里面文件夹的路径，ios里已经有的就覆盖，无则复制（但是如果是其它不同的DEB包安装的就会提示冲突）(不同的deb包指的是包名不同)。所以下面的教程将举几个例子给大家看，包简单明了！！！！！</h3>
+
+<h2>打包deb需要一个命令：     dpkg-deb -b</h2>
+
+<h3>还需要用到一个必须的control文件</h3>
+
+<blockquote><h1>例子1：  简单制作一个deb，把一个文件通过deb放到指定路径</h1>
+
+<h2>1.首先，新建一个文件夹</h2>
+
+<p><img src="/images/ubuntu-deb/10.png" alt="" /></p>
+
+<h2>2. 要把某文件复制到 /var/mobile ，so新建一个对应路径的文件夹</h2>
+
+<p><img src="/images/ubuntu-deb/11.png" alt="" /></p>
+
+<h2>3. 把要复制的设备的文件放到文件夹里</h2>
+
+<p><img src="/images/ubuntu-deb/12.png" alt="" /></p>
+
+<h2>4. 回到根目录，新建一个DEBIAN文件夹，注意大小写</h2>
+
+<p><img src="/images/ubuntu-deb/13.png" alt="" /></p>
+
+<h2>5.在DEBIAN里新建一个文本文档，名为control</h2>
+
+<p><img src="/images/ubuntu-deb/14.png" alt="" /></p>
+
+<h3>编辑control，下面的编码选 pkg-config     （control文件最后一行必须至少有一个换行的空行）</h3>
+
+<h3>control文件必须是UTF-8，Unix编码，Unix/Linux换行符（LF），不符合规范的control会导致Cydia无法打开。</h3>
+
+<p><img src="/images/ubuntu-deb/15.png" alt="" /></p>
+
+<h2>6. 回到桌面，打开终端，开始打包</h2>
+
+<h3>DEBIAN文件夹的权限应为：755</h3>
+
+<h3>chmod 755 ./例子1/DEBIAN</h3>
+
+<h2>输入命令</h2>
+
+<p><img src="/images/ubuntu-deb/16.png" alt="" /></p>
+
+<h2>完成后</h2>
+
+<p><img src="/images/ubuntu-deb/17.png" alt="" /></p>
+
+<h2>大家可以安装到机子里看看</h2></blockquote>
+
+<h1>例子2   制作插件汉化补丁</h1>
+
+<h2>已开新贴：<a href="http://qxxqxx.github.io/blog/2013/07/22/deb-cn/">http://qxxqxx.github.io/blog/2013/07/22/deb-cn/</a></h2>
+
+<p>====================================================================================================</p>
+
+<h1><strong>大家有什么不懂的去 新浪微博 <a href="http://weibo.com/qzoro">@我系蚯蚓啊</a>找我，尽量为大家解答吧！！(求粉)</strong></h1>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[【插件汉化教程 两种方法图文视频详细教程】]]></title>
+    <link href="http://yoursite.com/hanhua/"/>
+    <updated>2013-03-02T09:57:00+08:00</updated>
+    <id>http://yoursite.com/hanhua</id>
+    <content type="html"><![CDATA[<blockquote><h3><li>转载请标明出处：<a href="http://qxxqxx.github.io/blog/2013/03/02/hanhua/">http://qxxqxx.github.io/blog/2013/03/02/hanhua/</a></h3>
+
+<h3><li>请大家支持正版，使用正版软件，插件</h3>
+
+<h3><li>帖子： <a href="http://bbs.weiphone.com/read-htm-tid-5881851-page-1.html">http://bbs.weiphone.com/read-htm-tid-5881851-page-1.html</a></h3></blockquote>
+
+<h1><li>请尊重作者劳动，随手回复(在最下面)</h1>
+
+<p>====================================================================================================</p>
+
+<blockquote><h1><li>Changelog:</h1>
+
+<blockquote><h2>3月16日  更新详细有声视频教程</h2>
+
+<h2>3月22日  重新录制简版教程（以发布在帖子中）</h2>
+
+<h2>3月23日  重新录制详细有声版教程（以发布在帖子中） + Springtomize 2完美汉化包（在方法二下方）</h2>
+
+<h2>4月5日   排版，修改一些细节</h2>
+
+<h2>4月12日  送上本人照片流</h2>
+
+<h2>6月1日   deb制作教程：<a href="http://qxxqxx.github.io/blog/2013/05/31/ubuntu-deb/">http://qxxqxx.github.io/blog/2013/05/31/ubuntu-deb/</a></h2>
+
+<h2>7月22日  更新插件汉化包在ios上的制作方法 ：<a href="http://qxxqxx.github.io/blog/2013/07/22/deb-cn/">http://qxxqxx.github.io/blog/2013/07/22/deb-cn/</a></h2></blockquote></blockquote>
+
+<!--more-->
+
+
+<p>====================================================================================================</p>
+
+<blockquote><h2><li>应大家的需要，再此发出插件汉化教程…</h2>
+
+<h2><li>全部由自己慢慢地摸索出来的，转载请说明出处。谢谢 有什么可以完善的到新浪微博找我</h2>
+
+<h2><li>总共有两个方法，废话不多说，开始……</h2></blockquote>
+
+<p>====================================================================================================</p>
+
+<blockquote><h1><li>插件常放置文件的目录（也可以到Cydia里查看目录）</h1>
+
+<blockquote><h2>//Library/PreferenceBundles</h2>
+
+<h2>//Library/PreferenceLoader/Preferences</h2>
+
+<h2>//Library/MobileSubstrate/DynamicLibrarie</h2>
+
+<h2>//System/Library/PreferenceBundles</h2>
+
+<h2>//Library/Weeloader</h2>
+
+<h2>//System/Library/WeeAppPlugins</h2></blockquote>
+
+<h1>一般所有的插件都能在其中一个目录里进行汉化 ，大家可以像我一样在iFile创建一个收藏夹…</h1>
+
+<p><img src="/images/HanHua/1.png" alt="" /></p></blockquote>
+
+<p>====================================================================================================</p>
+
+<h1><li>方法一：</h1>
+
+<h3>（优点: 较方便。缺点：更新插件会丢失汉化，有的菜单二级目录无法汉化。so 不推荐）</h3>
+
+<blockquote><h2><li>已Zephyr为例：</h2>
+
+<h2>1. 首先看到的界面当然是英文的</h2>
+
+<p><img src="/images/HanHua/2.png" alt="" /></p>
+
+<h2>2. 然后打开iFile，定位到//Library/PreferenceLoader/Preferences （就是上面给出的目录）</h2>
+
+<p><img src="/images/HanHua/3.png" alt="" /></p>
+
+<h2>3. 找到Zephyr.plist</h2>
+
+<p><img src="/images/HanHua/4.png" alt="" /></p>
+
+<h2>4. 点击，选择使用文本编辑器打开</h2>
+
+<p><img src="/images/HanHua/5.png" alt="" /></p>
+
+<h2>5. 然后我们先汉化第一个 文本 ：Enabled</h2>
+
+<h3>点击搜索，输入Enabled</h3>
+
+<p><img src="/images/HanHua/6.png" alt="" /></p>
+
+<h2>6. 然后选择这个单词 注意：旁边的标点别乱删</h2>
+
+<p><img src="/images/HanHua/7.png" alt="" /></p>
+
+<h2>7. 改成 开关</h2>
+
+<p><img src="/images/HanHua/8.png" alt="" /></p>
+
+<h2>8. 保存</h2>
+
+<h2>9. 杀掉设置后台</h2>
+
+<h2>10.回到设置里一看</h2>
+
+<p><img src="/images/HanHua/9.png" alt="" /></p>
+
+<h1>Finally   成功了!!!!!!</h1>
+
+<h1>但是在此不推荐第一种，因为一些多二级菜单的插件汉化不彻底，而且容易丢失。</h1>
+
+<h2>方法一  视频演示：</h2>
+
+<h3>【简版 v2.0】youku链接：<a href="http://v.youku.com/v_show/id_XNTMwODYxNTY4.html">http://v.youku.com/v_show/id_XNTMwODYxNTY4.html</a></h3>
+
+<p><iframe height=498 width=510 src="http://player.youku.com/embed/XNTMwODYxNTY4" frameborder=0 allowfullscreen></iframe></p>
+
+<h3>【详细有声版 v2.0】youku: <a href="http://v.youku.com/v_show/id_XNTMxMDYwNzk2.html">http://v.youku.com/v_show/id_XNTMxMDYwNzk2.html</a></h3>
+
+<p><iframe height=498 width=510 src="http://player.youku.com/embed/XNTMxMDYwNzk2" frameborder=0 allowfullscreen></iframe></p></blockquote>
+
+<p>====================================================================================================</p>
+
+<h1><li>第二种方法</h1>
+
+<h3>（极为推荐，I prefer this）</h3>
+
+<blockquote><h3><li>废话不多说，还是以Zephyr为例……</h3>
+
+<p><img src="/images/HanHua/10.png" alt="" /></p>
+
+<h2>1. 打开iFile，定位到//Library/PreferenceLoader/Preferences （就是上面给出的目录）</h2>
+
+<p><img src="/images/HanHua/11.png" alt="" /></p>
+
+<h2>2. 在此目录创建语言包</h2>
+
+<h4>简体：zh_CN.lproj</h4>
+
+<h4>繁体：zh_TW.lproj</h4>
+
+<p><img src="/images/HanHua/12.png" alt="" /></p>
+
+<h2>3. 找到Zephyr.plist</h2>
+
+<h3>4. 然后在zh_CN.lproj里创建 Zephyr.strings （文件名与你想修改的plist相同）</h3>
+
+<h2>一定要 选 常规文件</h2>
+
+<p><img src="/images/HanHua/13.png" alt="" /></p>
+
+<h2>5. 点击这个strings</h2>
+
+<h2>选择属性表编辑器，打开是空白的</h2>
+
+<p><img src="/images/HanHua/14.png" alt="" />
+<img src="/images/HanHua/15.png" alt="" /></p>
+
+<h2>6. 点击+</h2>
+
+<h2>直接输入你在设置里看到的文字，注意大小写</h2>
+
+<p><img src="/images/HanHua/16.png" alt="" /></p>
+
+<h2>7. 然后按 完成</h2>
+
+<h2>8. 然后再按你创建的属性表</h2>
+
+<p><img src="/images/HanHua/17.png" alt="" /></p>
+
+<h2>9. 输入你想汉化的内容</h2>
+
+<p><img src="/images/HanHua/18.png" alt="" /></p>
+
+<h2>10.杀掉设置后台</h2>
+
+<h1>Finally    看到效果了吧</h1>
+
+<h1>全面汉化效果:</h1>
+
+<p><img src="/images/HanHua/19.png" alt="" /></p>
+
+<h2>Zephyr 的 strings 全部:   (按一下看原图)</h2>
+
+<p><img src="/images/HanHua/20.jpg" alt="" /></p>
+
+<h1>还是推荐这种方法!!!!</h1>
+
+<h1>方法二  视频演示：</h1>
+
+<h2>【简版 v2.0】youku链接：<a href="http://v.youku.com/v_show/id_XNTMwODYzMDg0.html">http://v.youku.com/v_show/id_XNTMwODYzMDg0.html</a></h2>
+
+<p><iframe height=498 width=510 src="http://player.youku.com/embed/XNTMwODYzMDg0" frameborder=0 allowfullscreen></iframe></p>
+
+<h2>【详细有声版 v2.0】 youku链接:<a href="http://v.youku.com/v_show/id_XNTMxMDY0MDUy.html">http://v.youku.com/v_show/id_XNTMxMDY0MDUy.html</a></h2>
+
+<p><iframe height=498 width=510 src="http://player.youku.com/embed/XNTI3NDcxMjYw" frameborder=0 allowfullscreen></iframe></p></blockquote>
+
+<p>====================================================================================================</p>
+
+<h1><li>大家有什么不懂的去 新浪微博 <a href="http://weibo.com/qzoro">@我系蚯蚓啊</a>找我，尽量为大家解答吧！！(求粉)</h1>
+]]></content>
+  </entry>
+  
+</feed>

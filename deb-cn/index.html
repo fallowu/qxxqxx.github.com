@@ -1,0 +1,338 @@
+
+<!DOCTYPE HTML>
+
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<title>【在电脑上，ios设备上制作.deb插件汉化包】 - 我系蚯蚓啊's Blog</title>
+	<meta name="author" content="蚯蚓">
+
+	
+	<meta name="description" content="【在电脑上，ios设备上制作.deb插件汉化包】">
+	<meta name="keywords" content="制作插件,汉化,seb包,seb,汉化插件,汉化补丁">
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link href="/rss.xml" rel="alternate" title="我系蚯蚓啊's Blog" type="application/atom+xml">
+	
+	<link rel="canonical" href="http://yoursite.com/deb-cn/">
+	<link href="/favicon.png" rel="shortcut icon">
+	<link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+	<!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,700' rel='stylesheet' type='text/css'>
+	<!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+</head>
+
+
+<body>
+	<div class="container">
+		<div class="left-col">
+			<div class="intrude-less">
+			<header id="header" class="inner"><div class="profilepic">	
+	<script src="/javascripts/md5.js"></script>
+	<script type="text/javascript">
+		document.write("<img src='http://www.gravatar.com/avatar/" + MD5("") + "?s=160' alt='Profile Picture' style='width: 160px;' />");
+	</script>
+</div>
+<h1><a href="/">我系蚯蚓啊's Blog</a></h1>
+<p class="subtitle"></p>
+<nav id="main-nav"><ul class="main">
+	<li><a href="/">首页</a></li>
+	<li><a href="/blog/archives">文章列表</a></li>
+	<li><a href="/sort">分类</a></li>
+	<li><a href="/about">关于</a></li>
+</ul>
+
+</nav>
+<nav id="sub-nav">
+	<div class="social">
+		
+		<a class="weibo" href="http://www.weibo.com/qzoro" title="Weibo">Weibo</a>
+		
+		
+		<a class="facebook" href="http://www.facebook.com/qxxqxx" title="Facebook">Facebook</a>
+		
+		
+		
+		<a class="twitter" href="http://twitter.com/qxxqxx" title="Twitter">Twitter</a>
+		
+		
+		<a class="github" href="https://github.com/qxxqxx" title="GitHub">GitHub</a>
+		
+		
+		
+		
+		
+		
+		
+		<a class="rss" href="/rss.xml" title="RSS">RSS</a>
+		
+	</div>
+</nav></header>				
+			</div>
+		</div>	
+		<div class="mid-col">
+			
+				
+			
+			<div class="mid-col-container">
+				<div id="content" class="inner"><article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+	<h1 class="title" itemprop="name">【在电脑上，ios设备上制作.deb插件汉化包】</h1>
+	<div class="entry-content" itemprop="articleBody"><blockquote><h1>请尊重作者劳动，随手回复(在最下面)</h1>
+
+<h3>1.如何汉化插件？   请看我的第 1 篇教程：  <a href="http://qxxqxx.github.io/blog/2013/03/02/hanhua/">http://qxxqxx.github.io/blog/2013/03/02/hanhua/</a></h3>
+
+<h3>2.认识什么是.deb  请看我的第 2 篇教程：<a href="http://qxxqxx.github.io/blog/2013/05/31/ubuntu-deb/">http://qxxqxx.github.io/blog/2013/05/31/ubuntu-deb/</a>   （建议看完此文，再看本文）</h3></blockquote>
+
+<p>====================================================================================================</p>
+
+<blockquote><h1>准备工作：</h1>
+
+<h2>电脑上：必须使用linux系统（mac上需要安装 fink 或者 macport ） fink安装请参考此贴：<a href="http://bbs.weiphone.com/read-htm-tid-5596730.html">http://bbs.weiphone.com/read-htm-tid-5596730.html</a></h2>
+
+<h2>ios上：   必须 越狱 且安装 MobileTerminal</h2>
+
+<p><img src="/images/deb-CN/1.png" alt="" />
+<img src="/images/deb-CN/2.png" alt="" /></p></blockquote>
+
+<h2>.strings文件模板：<a href="/images/deb-CN/%E6%A8%A1%E6%9D%BF.strings.zip">点击下载</a></h2>
+
+<pre><code>&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"&gt;
+&lt;plist version="1.0"&gt;
+&lt;dict&gt;
+    &lt;key&gt;&lt;/key&gt;
+    &lt;string&gt;&lt;/string&gt;
+    &lt;key&gt;&lt;/key&gt;
+    &lt;string&gt;&lt;/string&gt;
+&lt;/dict&gt;
+&lt;/plist&gt;
+</code></pre>
+
+<!--more-->
+
+
+<p>====================================================================================================</p>
+
+<h1>教程开始：</h1>
+
+<h1>电脑上：(我的系统是mac os x，且已安装fink)</h1>
+
+<blockquote><h2>1.创建需要 同 放置汉化.strings路径一样 的 文件夹 （看完我的第一篇教程：<a href="http://qxxqxx.github.io/blog/2013/03/02/hanhua/">http://qxxqxx.github.io/blog/2013/03/02/hanhua/</a>）</h2>
+
+<h3>现在我正在制作 DietBulletin汉化包 ，汉化.strings 需要放到 /Library/PreferenceLoader/Preferences/zh_CN.lproj 里。。看图</h3>
+
+<p><img src="/images/deb-CN/3.png" alt="" /></p>
+
+<h2>2.创建DEBIAN文件夹（在此deb文件夹的根目录）并在里面创建 control 文件</h2>
+
+<h3>（看我的第二篇教程：<a href="http://qxxqxx.github.io/blog/2013/05/31/ubuntu-deb/">http://qxxqxx.github.io/blog/2013/05/31/ubuntu-deb/</a>）</h3>
+
+<p><img src="/images/deb-CN/4.png" alt="" /><br/>
+<img src="/images/deb-CN/5.png" alt="" /></p>
+
+<h2>3. 打开终端，获取su权限</h2>
+
+<p><img src="/images/deb-CN/6.png" alt="" /></p>
+
+<h2>4. 输入命令 看图</h2>
+
+<p><img src="/images/deb-CN/7.png" alt="" /></p>
+
+<h2>回车</h2>
+
+<p><img src="/images/deb-CN/8.png" alt="" /></p>
+
+<h2>至此一个deb汉化包已完成，放到ifile安装就行了。</h2>
+
+<p><img src="/images/deb-CN/9.png" alt="" /></p></blockquote>
+
+<p>====================================================================================================</p>
+
+<h1>ios设备上：</h1>
+
+<blockquote><h2>1.把你刚刚的创建的文件夹放到：/var/mobile 里</h2>
+
+<p><img src="/images/deb-CN/10.png" alt="" /></p>
+
+<h2>2.打开MobileTerminal，获取su权限</h2>
+
+<p><img src="/images/deb-CN/11.png" alt="" /></p>
+
+<h2>3. 输入命令，回车。。看图 （跟电脑上一样的）</h2>
+
+<p><img src="/images/deb-CN/12.png" alt="" /></p>
+
+<h2>4.ifile：deb包已经生成</h2>
+
+<p><img src="/images/deb-CN/13.png" alt="" /></p></blockquote>
+
+<p>====================================================================================================</p>
+
+<h1><strong>大家有什么不懂的去 新浪微博 <a href="http://weibo.com/qzoro">@我系蚯蚓啊</a>找我，尽量为大家解答吧！！(求粉)</strong></h1>
+</div>
+
+</article>
+
+	<div class="share">
+	<div class="addthis_toolbox addthis_default_style ">
+	
+	
+	
+	</div>
+  <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid="></script>
+</div>
+
+
+	
+
+<DIV style="font-size:12px;BORDER-BOTTOM: #bbbbbb 1px solid; BORDER-LEFT: #bbbbbb 1px solid; BACKGROUND: #f6f6f6; HEIGHT: 120px; BORDER-TOP: #bbbbbb 1px solid; BORDER-RIGHT: #bbbbbb 1px solid" class=oec2003right> 
+<DIV style="MARGIN-TOP: 10px; FLOAT: left; MARGIN-LEFT: 5px; MARGIN-RIGHT: 10px"> 
+<IMG alt="" src="http://qxxqxx.github.io/images/about/1.jpg" width=90 height=100></DIV> 
+<DIV style="LINE-HEIGHT: 200%; MARGIN-TOP: 10px; COLOR: #000000"> 
+
+作者： <A href="http://qxxqxx.github.io">蚯蚓</A> <BR> 
+出处： <A href="http://qxxqxx.github.io">http://qxxqxx.github.io</A> 
+<BR>本文基于<a target="_blank" title="Creative Commons Attribution 2.5 China Mainland License" href="http://creativecommons.org/licenses/by/2.5/cn/"> 
+署名 2.5 中国大陆</a>许可协议发布，欢迎转载，但未经作者同意必须保留此段声明，且在文章页面明显位置给出原文链接以及作者（上方两项信息）
+<br/>否则：保留追究法律责任的权利。 
+</DIV></DIV> 
+
+	<!-- JiaThis Button BEGIN -->
+<div class="jiathis_style">
+	<span class="jiathis_txt">分享到：</span>
+	<a class="jiathis_button_qzone">QQ空间</a>
+	<a class="jiathis_button_tsina">新浪微博</a>
+	<a class="jiathis_button_tqq">腾讯微博</a>
+	<a class="jiathis_button_weixin">微信</a>
+	<a href="http://www.jiathis.com/share" class="jiathis jiathis_txt jiathis_separator jtico jtico_jiathis" target="_blank">更多</a>
+	<a class="jiathis_counter_style"></a>
+</div>
+<script type="text/javascript" src="http://v3.jiathis.com/code/jia.js?uid=1375793755406263" charset="utf-8"></script>
+<!-- JiaThis Button END -->
+
+
+  <section>
+    <h1></h1>
+    <div id="comments" aria-live="polite"><!-- Duoshuo Comment BEGIN -->
+<div class="ds-thread"></div>
+<script type="text/javascript">
+  var duoshuoQuery = {short_name:"qxxqxx"};
+  (function() {
+    var ds = document.createElement('script');
+    ds.type = 'text/javascript';ds.async = true;
+    ds.src = 'http://static.duoshuo.com/embed.js';
+    ds.charset = 'UTF-8';
+    (document.getElementsByTagName('head')[0] 
+    || document.getElementsByTagName('body')[0]).appendChild(ds);
+  })();
+</script>
+<!-- Duoshuo Comment END --></div>
+  </section>
+</div>
+			</div>
+			<footer id="footer" class="inner"><p>
+  Copyright &copy; 2013 - 蚯蚓 -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+</footer>
+			<script src="/javascripts/slash.js"></script>
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+<script src="/javascripts/jquery.fancybox.pack.js"></script>
+<script type="text/javascript">
+(function($){
+	$('.fancybox').fancybox();
+})(jQuery);
+</script> <!-- Delete or comment this line to disable Fancybox -->
+
+
+
+
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-43063850-1']);
+		_gaq.push(['_trackPageview']);
+
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+
+
+
+
+		</div>
+	</div>
+	<!-- AddThis Welcome BEGIN -->
+		<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-520498f60529577b"></script>
+		<script type='text/javascript'>
+		addthis.bar.initialize({'default':{
+			"backgroundColor": "#000000",
+			"buttonColor": "#098DF4",
+			"textColor": "#FFFFFF",
+			"buttonTextColor": "#FFFFFF"
+		},rules:[
+			{
+				"name": "AnyOther",
+				"message": "记住我博客的网址(⊙o⊙)哦:http://qxxqxx.github.io…………请关注我的微博：",
+				"action": {
+					"type": "button",
+					"text": "@我系蚯蚓啊",
+					"verb": "link",
+					"url": "http://weibo.com/qzoro"
+				}
+			},
+			{
+				"name": "Twitter",
+				"match": {
+					"referringService": "twitter"
+				},
+				"message": "记住我博客的网址(⊙o⊙)哦:http://qxxqxx.github.io…………请关注我的微博：",
+				"action": {
+					"type": "button",
+					"text": "@我系蚯蚓啊",
+					"verb": "link",
+					"url": "http://weibo.com/qzoro"
+				}
+			},
+			{
+				"name": "Facebook",
+				"match": {
+					"referringService": "facebook"
+				},
+				"message": "记住我博客的网址(⊙o⊙)哦:http://qxxqxx.github.io…………请关注我的微博：",
+				"action": {
+					"type": "button",
+					"text": "@我系蚯蚓啊",
+					"verb": "link",
+					"url": "http://weibo.com/qzoro"
+				}
+			},
+			{
+				"name": "Google",
+				"match": {
+					"referrer": "google.com"
+				},
+				"message": "记住我博客的网址(⊙o⊙)哦:http://qxxqxx.github.io…………请关注我的微博：",
+				"action": {
+					"type": "button",
+					"text": "@我系蚯蚓啊",
+					"verb": "link",
+					"url": "http://weibo.com/qzoro"
+				}
+			}
+		]});
+		</script>
+		<!-- AddThis Welcome END -->
+</body>
+</html>
