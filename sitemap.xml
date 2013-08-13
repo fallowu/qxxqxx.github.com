@@ -1,67 +1,67 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://yoursite.com/hanhua/</loc>
+        <loc>http://qxxqxx.github.io/hanhua/</loc>
+        <lastmod>2013-08-13T20:42:38+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://qxxqxx.github.io/ubuntu-deb/</loc>
+        <lastmod>2013-08-13T20:42:38+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://qxxqxx.github.io/deb-cn/</loc>
+        <lastmod>2013-08-13T20:42:38+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://qxxqxx.github.io/explain/</loc>
+        <lastmod>2013-08-13T20:42:38+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://qxxqxx.github.io/xiaomi-cylinder/</loc>
+        <lastmod>2013-08-13T20:42:38+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://qxxqxx.github.io/iwalk-battery/</loc>
+        <lastmod>2013-08-13T20:42:38+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://qxxqxx.github.io/my-tweaks/</loc>
+        <lastmod>2013-08-13T20:42:38+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://qxxqxx.github.io/rss-about/</loc>
+        <lastmod>2013-08-13T20:42:38+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://qxxqxx.github.io/a4-tethered-jailbreak/</loc>
+        <lastmod>2013-08-13T20:42:38+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://qxxqxx.github.io/about/</loc>
         <lastmod>2013-08-13T17:07:26+08:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/ubuntu-deb/</loc>
+        <loc>http://qxxqxx.github.io/blog/archives/</loc>
         <lastmod>2013-08-13T17:07:26+08:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/deb-cn/</loc>
+        <loc>http://qxxqxx.github.io/blog/categories/</loc>
         <lastmod>2013-08-13T17:07:26+08:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/explain/</loc>
-        <lastmod>2013-08-13T17:07:26+08:00</lastmod>
+        <loc>http://qxxqxx.github.io/</loc>
+        <lastmod>2013-08-13T20:39:08+08:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/xiaomi-cylinder/</loc>
-        <lastmod>2013-08-13T17:07:26+08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://yoursite.com/iwalk-battery/</loc>
-        <lastmod>2013-08-13T17:07:26+08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://yoursite.com/my-tweaks/</loc>
-        <lastmod>2013-08-13T17:07:26+08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://yoursite.com/rss-about/</loc>
-        <lastmod>2013-08-13T17:07:26+08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://yoursite.com/a4-tethered-jailbreak/</loc>
-        <lastmod>2013-08-13T17:07:26+08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://yoursite.com/about/</loc>
-        <lastmod>2013-08-13T17:07:26+08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://yoursite.com/blog/archives/</loc>
-        <lastmod>2013-08-13T17:07:26+08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://yoursite.com/blog/categories/</loc>
-        <lastmod>2013-08-13T17:07:26+08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://yoursite.com/</loc>
-        <lastmod>2013-08-13T17:07:26+08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://yoursite.com/robots.txt</loc>
+        <loc>http://qxxqxx.github.io/robots.txt</loc>
         <lastmod>2013-08-13T16:20:47+08:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/rss.xml</loc>
+        <loc>http://qxxqxx.github.io/rss.xml</loc>
         <lastmod>2013-08-13T16:21:22+08:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/sort/</loc>
+        <loc>http://qxxqxx.github.io/sort/</loc>
         <lastmod>2013-08-13T17:07:26+08:00</lastmod>
     </url>
 </urlset>

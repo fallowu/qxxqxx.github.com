@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: tweak | 我系蚯蚓啊's Blog]]></title>
-  <link href="http://yoursite.com/blog/categories/tweak/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2013-08-13T17:25:10+08:00</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://qxxqxx.github.io/blog/categories/tweak/atom.xml" rel="self"/>
+  <link href="http://qxxqxx.github.io/"/>
+  <updated>2013-08-13T20:52:12+08:00</updated>
+  <id>http://qxxqxx.github.io/</id>
   <author>
     <name><![CDATA[蚯蚓]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[【我装的所有插件----45个】]]></title>
-    <link href="http://yoursite.com/my-tweaks/"/>
+    <link href="http://qxxqxx.github.io/my-tweaks/"/>
     <updated>2013-08-10T20:23:00+08:00</updated>
-    <id>http://yoursite.com/my-tweaks</id>
+    <id>http://qxxqxx.github.io/my-tweaks</id>
     <content type="html"><![CDATA[<h1>Action Menu</h1>
 
 <p>输入增强</p>

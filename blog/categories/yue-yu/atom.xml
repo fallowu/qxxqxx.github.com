@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: 越狱 | 我系蚯蚓啊's Blog]]></title>
-  <link href="http://yoursite.com/blog/categories/yue-yu/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2013-08-13T17:25:10+08:00</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://qxxqxx.github.io/blog/categories/yue-yu/atom.xml" rel="self"/>
+  <link href="http://qxxqxx.github.io/"/>
+  <updated>2013-08-13T20:52:12+08:00</updated>
+  <id>http://qxxqxx.github.io/</id>
   <author>
     <name><![CDATA[蚯蚓]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[【A4设备iOS 6.1.3不完美越狱教程】]]></title>
-    <link href="http://yoursite.com/a4-tethered-jailbreak/"/>
+    <link href="http://qxxqxx.github.io/a4-tethered-jailbreak/"/>
     <updated>2013-08-12T22:31:00+08:00</updated>
-    <id>http://yoursite.com/a4-tethered-jailbreak</id>
+    <id>http://qxxqxx.github.io/a4-tethered-jailbreak</id>
     <content type="html"><![CDATA[<h1>请尊重作者劳动，随手回复(在最下面)</h1>
 
 <blockquote><h2><br/><li>1.首先下载打开 Redsn0w 0.9.15b3 （点击下载：<a href="/images/A4-ios6.1.3-jailbreak/redsn0w_win_0.9.15b3.rar">Win</a>，<a href="/images/A4-ios6.1.3-jailbreak/redsn0w.zip">Mac</a>) 和 A4设备iOS 6.0 的.ipsw固件</h2>
