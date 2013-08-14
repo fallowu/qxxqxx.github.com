@@ -4,7 +4,7 @@
   <title><![CDATA[Category: 教程 | 我系蚯蚓啊's Blog]]></title>
   <link href="http://qxxqxx.github.io/blog/categories/jiao-cheng/atom.xml" rel="self"/>
   <link href="http://qxxqxx.github.io/"/>
-  <updated>2013-08-14T09:14:52+08:00</updated>
+  <updated>2013-08-14T09:41:55+08:00</updated>
   <id>http://qxxqxx.github.io/</id>
   <author>
     <name><![CDATA[邱星翔]]></name>
@@ -12,6 +12,80 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[【我建这个网站的参考资料】]]></title>
+    <link href="http://qxxqxx.github.io/blog/octopress-built/"/>
+    <updated>2013-08-14T09:26:00+08:00</updated>
+    <id>http://qxxqxx.github.io/blog/octopress-built</id>
+    <content type="html"><![CDATA[<h1>有点乱，自己整理吧</h1>
+
+<blockquote><p>Octopress号称A blogging framework for hackers.   当然要自己折腾一下的，慢慢研究……</p></blockquote>
+
+<h2><br/>1.『WEIP测试组』『教程』教你在MAC下搭建极客专用的OCTOPRESS博客</h2>
+
+<h2><a href="http://bbs.weiphone.com/read-htm-tid-6663858.html">http://bbs.weiphone.com/read-htm-tid-6663858.html</a></h2>
+
+<h2><br/>2.Mac系统下如何在Github搭建Octopress博客 &ndash; 我遇见你</h2>
+
+<h2><a href="http://www.imeetyou.net/article.asp?id=478">http://www.imeetyou.net/article.asp?id=478</a></h2>
+
+<!--more-->
+
+
+<h2><br/>3.MarkDown语法 | 跳蚤,位於單行道</h2>
+
+<h2><a href="http://net.hiing.net/2011/04/markdown/">http://net.hiing.net/2011/04/markdown/</a></h2>
+
+<h2><br/>4.Octopress博客设置 &ndash; oec2003 &ndash; 博客园</h2>
+
+<h2><a href="http://www.cnblogs.com/oec2003/archive/2013/05/31/3109577.html">http://www.cnblogs.com/oec2003/archive/2013/05/31/3109577.html</a></h2>
+
+<h2><br/>5.Github Pages极简教程 &ndash; 雁起平沙的网络日志</h2>
+
+<h2><a href="http://yanping.me/cn/blog/2012/03/18/github-pages-step-by-step/">http://yanping.me/cn/blog/2012/03/18/github-pages-step-by-step/</a></h2>
+
+<h2><br/>6.Category: octopress &ndash; 蝶姐&rsquo;s Blog&mdash;前端工程师</h2>
+
+<h2><a href="http://yrzhll.com/blog/categories/octopress/">http://yrzhll.com/blog/categories/octopress/</a></h2>
+
+<h2><br/>7.我的Octopress配置 &ndash; 研究研究</h2>
+
+<h2><a href="http://www.yanjiuyanjiu.com/blog/20130402/">http://www.yanjiuyanjiu.com/blog/20130402/</a></h2>
+
+<h2><br/>8.为 Octopress 添加多说评论系统 &ndash; Havanna&rsquo;s Space</h2>
+
+<h2><a href="http://ihavanna.org/internet/2013-02/add-duoshuo-commemt-system-into-octopress.html">http://ihavanna.org/internet/2013-02/add-duoshuo-commemt-system-into-octopress.html</a></h2>
+
+<h2><br/>9.加网 &ndash; 中国最大的社会化分享按钮及分享代码提供商！</h2>
+
+<h2><a href="http://jiathis.com/">http://jiathis.com/</a></h2>
+
+<h2><br/>10. 3rd Party Octopress Themes · imathis/octopress Wiki</h2>
+
+<h2><a href="https://github.com/imathis/octopress/wiki/3rd-Party-Octopress-Themes">https://github.com/imathis/octopress/wiki/3rd-Party-Octopress-Themes</a></h2>
+
+<h2><br/>11.tommy351/Octopress-Theme-Slash</h2>
+
+<h2><a href="https://github.com/tommy351/Octopress-Theme-Slash">https://github.com/tommy351/Octopress-Theme-Slash</a></h2>
+
+<h2><br/>12.shashankmehta/greyshade</h2>
+
+<h2><a href="https://github.com/shashankmehta/greyshade">https://github.com/shashankmehta/greyshade</a></h2>
+
+<h2><br/>13.libingcun/libingcun-octopress-theme</h2>
+
+<h2><a href="https://github.com/libingcun/libingcun-octopress-theme">https://github.com/libingcun/libingcun-octopress-theme</a></h2>
+
+<h2><br/>14.fancyBox &ndash; Fancy jQuery Lightbox Alternative</h2>
+
+<h2><a href="http://fancyapps.com/fancybox/">http://fancyapps.com/fancybox/</a></h2>
+
+<h2><br/>15.为Octopress修改主题和自定义样式 &ndash; 雁起平沙的网络日志</h2>
+
+<h2><a href="http://yanping.me/cn/blog/2012/01/07/theming-and-customization/">http://yanping.me/cn/blog/2012/01/07/theming-and-customization/</a></h2>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[【A4设备iOS 6.1.3不完美越狱教程】]]></title>
