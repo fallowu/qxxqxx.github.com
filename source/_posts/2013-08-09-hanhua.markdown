@@ -1,0 +1,178 @@
+---
+layout: post
+title: "【插件汉化教程 两种方法图文视频详细教程】"
+date: 2013-03-02 09:57
+comments: true
+categories: 教程
+description: "【插件汉化教程 两种方法图文视频详细教程】" 
+keywords: 制作插件,汉化,seb包,seb,汉化插件,汉化补丁,教程,汉化插件教程
+---
+>###	<li>转载请标明出处：<http://qxxqxx.github.io/blog/2013/03/02/hanhua/>
+
+>###	<li>请大家支持正版，使用正版软件，插件 
+>###	<li>帖子： <http://bbs.weiphone.com/read-htm-tid-5881851-page-1.html>
+
+
+
+
+#<li>请尊重作者劳动，随手回复(在最下面)
+
+
+====================================================================================================
+
+>#<li>Changelog:
+>>##3月16日  更新详细有声视频教程
+>>##3月22日  重新录制简版教程（以发布在帖子中）
+>>##3月23日  重新录制详细有声版教程（以发布在帖子中） + Springtomize 2完美汉化包（在方法二下方）
+>>##4月5日   排版，修改一些细节
+>>##4月12日  送上本人照片流
+>>##6月1日   deb制作教程：<http://qxxqxx.github.io/blog/2013/05/31/ubuntu-deb/>
+>>##7月22日  更新插件汉化包在ios上的制作方法 ：<http://qxxqxx.github.io/blog/2013/07/22/deb-cn/>
+<!--more-->
+====================================================================================================
+
+>##<li>应大家的需要，再此发出插件汉化教程…
+
+
+
+>##<li>全部由自己慢慢地摸索出来的，转载请说明出处。谢谢 有什么可以完善的到新浪微博找我
+
+
+
+>##<li>总共有两个方法，废话不多说，开始……
+
+====================================================================================================
+
+>#<li>插件常放置文件的目录（也可以到Cydia里查看目录）
+
+>>##		//Library/PreferenceBundles
+>>##		//Library/PreferenceLoader/Preferences
+>>##		//Library/MobileSubstrate/DynamicLibrarie
+>>##		//System/Library/PreferenceBundles
+>>##		//Library/Weeloader
+>>##		//System/Library/WeeAppPlugins
+
+
+
+
+>#一般所有的插件都能在其中一个目录里进行汉化 ，大家可以像我一样在iFile创建一个收藏夹…
+
+>![](/images/HanHua/1.png)
+
+====================================================================================================
+#<li>方法一：
+###（优点: 较方便。缺点：更新插件会丢失汉化，有的菜单二级目录无法汉化。so 不推荐）
+
+>##<li>已Zephyr为例：
+>##1. 首先看到的界面当然是英文的
+>![](/images/HanHua/2.png)
+
+>##2. 然后打开iFile，定位到//Library/PreferenceLoader/Preferences （就是上面给出的目录）
+>![](/images/HanHua/3.png)
+
+>##3. 找到Zephyr.plist
+>![](/images/HanHua/4.png)
+
+>##4. 点击，选择使用文本编辑器打开
+>![](/images/HanHua/5.png)
+
+>##5. 然后我们先汉化第一个 文本 ：Enabled
+>###点击搜索，输入Enabled
+>![](/images/HanHua/6.png)
+
+>##6. 然后选择这个单词 注意：旁边的标点别乱删
+>![](/images/HanHua/7.png)
+
+>##7. 改成 开关
+>![](/images/HanHua/8.png)
+
+>##8. 保存
+
+>##9. 杀掉设置后台
+
+>##10.回到设置里一看
+>![](/images/HanHua/9.png)
+
+>#Finally   成功了!!!!!!
+
+>#但是在此不推荐第一种，因为一些多二级菜单的插件汉化不彻底，而且容易丢失。
+
+>##方法一  视频演示：
+
+>###【简版 v2.0】youku链接：<http://v.youku.com/v_show/id_XNTMwODYxNTY4.html>
+
+><iframe height=498 width=510 src="http://player.youku.com/embed/XNTMwODYxNTY4" frameborder=0 allowfullscreen></iframe>      
+
+
+
+>###【详细有声版 v2.0】youku: <http://v.youku.com/v_show/id_XNTMxMDYwNzk2.html>
+><iframe height=498 width=510 src="http://player.youku.com/embed/XNTMxMDYwNzk2" frameborder=0 allowfullscreen></iframe>
+
+
+====================================================================================================
+
+
+#<li>第二种方法
+###（极为推荐，I prefer this）
+
+>###<li>废话不多说，还是以Zephyr为例……
+>![](/images/HanHua/10.png)
+
+>##1. 打开iFile，定位到//Library/PreferenceLoader/Preferences （就是上面给出的目录） 
+>![](/images/HanHua/11.png)
+
+>##2. 在此目录创建语言包
+
+>####简体：zh_CN.lproj
+
+>####繁体：zh_TW.lproj
+
+>![](/images/HanHua/12.png)
+
+>##3. 找到Zephyr.plist
+
+>###4. 然后在zh_CN.lproj里创建 Zephyr.strings （文件名与你想修改的plist相同）
+>##一定要 选 常规文件
+>![](/images/HanHua/13.png)
+
+>##5. 点击这个strings
+>##选择属性表编辑器，打开是空白的
+>![](/images/HanHua/14.png)
+>![](/images/HanHua/15.png)
+
+>##6. 点击+
+>##直接输入你在设置里看到的文字，注意大小写
+>![](/images/HanHua/16.png)
+
+>##7. 然后按 完成
+
+>##8. 然后再按你创建的属性表
+>![](/images/HanHua/17.png)
+
+>##9. 输入你想汉化的内容
+>![](/images/HanHua/18.png)
+
+>##10.杀掉设置后台
+
+>#Finally    看到效果了吧
+
+>#全面汉化效果:
+>![](/images/HanHua/19.png)
+
+>##Zephyr 的 strings 全部:   (按一下看原图)
+>![](/images/HanHua/20.jpg)
+
+>#还是推荐这种方法!!!!
+
+>#方法二  视频演示：
+
+>##【简版 v2.0】youku链接：<http://v.youku.com/v_show/id_XNTMwODYzMDg0.html>
+><iframe height=498 width=510 src="http://player.youku.com/embed/XNTMwODYzMDg0" frameborder=0 allowfullscreen></iframe>
+
+>##【详细有声版 v2.0】 youku链接:<http://v.youku.com/v_show/id_XNTMxMDY0MDUy.html>
+><iframe height=498 width=510 src="http://player.youku.com/embed/XNTI3NDcxMjYw" frameborder=0 allowfullscreen></iframe>
+
+====================================================================================================
+
+#<li>大家有什么不懂的去 新浪微博 [@我系蚯蚓啊](http://weibo.com/qzoro)找我，尽量为大家解答吧！！(求粉)
+

@@ -1,0 +1,105 @@
+{% capture root_url %}{{ site.root | strip_slash }}{% endcapture %}
+{% include head.html %}
+
+<body>
+	<div class="container">
+		<div class="left-col">
+			<div class="intrude-less">
+			<header id="header" class="inner">{% include header.html %}</header>				
+			</div>
+		</div>	
+		<div class="mid-col">
+			{% unless page.banner == false %}
+				{% include banner.html %}
+			{% endunless %}
+			<div class="mid-col-container">
+				<div id="content" class="inner">{{ content | expand_urls: root_url }}</div>
+			</div>
+			<footer id="footer" class="inner">{% include footer.html %}</footer>
+			{% include after_footer.html %}
+		</div>
+	</div>
+	<!-- AddThis Welcome BEGIN -->
+		<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-520498f60529577b"></script>
+		<script type='text/javascript'>
+		addthis.bar.initialize({'default':{
+			"backgroundColor": "#000000",
+			"buttonColor": "#098DF4",
+			"textColor": "#FFFFFF",
+			"buttonTextColor": "#FFFFFF"
+		},rules:[
+			{
+				"name": "AnyOther",
+				"message": "记住我博客的网址(⊙o⊙)哦:http://qxxqxx.github.io…………请关注我的微博：",
+				"action": {
+					"type": "button",
+					"text": "@我系蚯蚓啊",
+					"verb": "link",
+					"url": "http://weibo.com/qzoro"
+				}
+			},
+			{
+				"name": "Twitter",
+				"match": {
+					"referringService": "twitter"
+				},
+				"message": "记住我博客的网址(⊙o⊙)哦:http://qxxqxx.github.io…………请关注我的微博：",
+				"action": {
+					"type": "button",
+					"text": "@我系蚯蚓啊",
+					"verb": "link",
+					"url": "http://weibo.com/qzoro"
+				}
+			},
+			{
+				"name": "Facebook",
+				"match": {
+					"referringService": "facebook"
+				},
+				"message": "记住我博客的网址(⊙o⊙)哦:http://qxxqxx.github.io…………请关注我的微博：",
+				"action": {
+					"type": "button",
+					"text": "@我系蚯蚓啊",
+					"verb": "link",
+					"url": "http://weibo.com/qzoro"
+				}
+			},
+			{
+				"name": "Google",
+				"match": {
+					"referrer": "google.com"
+				},
+				"message": "记住我博客的网址(⊙o⊙)哦:http://qxxqxx.github.io…………请关注我的微博：",
+				"action": {
+					"type": "button",
+					"text": "@我系蚯蚓啊",
+					"verb": "link",
+					"url": "http://weibo.com/qzoro"
+				}
+			}
+		]});
+		</script>
+		<!-- AddThis Welcome END -->
+		
+<!-- JiaThis Button BEGIN -->
+<script type="text/javascript" >
+var jiathis_config={
+	data_track_clickback:true,
+	siteNum:7,
+	sm:"tsina,tqq,fb,twitter,googleplus,qzone,weixin",
+	summary:"",
+	ralateuid:{
+		"tsina":"qzoro"
+	},
+	showClose:false,
+	shortUrl:false,
+	hideMore:true
+}
+</script>
+<script type="text/javascript" src="http://v3.jiathis.com/code/jiathis_r.js?uid=1826196&btn=r3.gif&move=0" charset="utf-8"></script>
+<!-- JiaThis Button END -->
+
+		
+		
+</body>
+</html>

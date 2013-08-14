@@ -1,0 +1,91 @@
+---
+layout: post
+title: "【在电脑上，ios设备上制作.deb插件汉化包】"
+date: 2013-07-22 14:55
+comments: true
+categories: 教程
+description: "【在电脑上，ios设备上制作.deb插件汉化包】" 
+keywords: 制作插件,汉化,seb包,seb,汉化插件,汉化补丁
+---
+>#请尊重作者劳动，随手回复(在最下面)
+>###1.如何汉化插件？   请看我的第 1 篇教程：  <http://qxxqxx.github.io/blog/2013/03/02/hanhua/>             
+>###2.认识什么是.deb  请看我的第 2 篇教程：<http://qxxqxx.github.io/blog/2013/05/31/ubuntu-deb/>   （建议看完此文，再看本文）
+
+====================================================================================================
+>#准备工作：
+>##电脑上：必须使用linux系统（mac上需要安装 fink 或者 macport ） fink安装请参考此贴：http://bbs.weiphone.com/read-htm-tid-5596730.html
+
+
+>## ios上：   必须 越狱 且安装 MobileTerminal
+>![](/images/deb-CN/1.png)
+>![](/images/deb-CN/2.png)
+
+## .strings文件模板：[点击下载](/images/deb-CN/模板.strings.zip) 
+    
+    <?xml version="1.0" encoding="UTF-8"?>
+    <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+    <plist version="1.0">
+    <dict>
+	    <key></key>
+	    <string></string>
+	    <key></key>
+	    <string></string>
+    </dict>
+    </plist>
+
+
+<!--more-->
+====================================================================================================
+
+
+#教程开始：
+
+#电脑上：(我的系统是mac os x，且已安装fink)
+
+
+
+
+>##1.创建需要 同 放置汉化.strings路径一样 的 文件夹 （看完我的第一篇教程：<http://qxxqxx.github.io/blog/2013/03/02/hanhua/>）
+>###现在我正在制作 DietBulletin汉化包 ，汉化.strings 需要放到 /Library/PreferenceLoader/Preferences/zh_CN.lproj 里。。看图
+>![](/images/deb-CN/3.png)  
+
+ 
+        
+>##2.创建DEBIAN文件夹（在此deb文件夹的根目录）并在里面创建 control 文件   
+>###（看我的第二篇教程：<http://qxxqxx.github.io/blog/2013/05/31/ubuntu-deb/>）
+>![](/images/deb-CN/4.png)  
+>![](/images/deb-CN/5.png)  
+
+
+>##3. 打开终端，获取su权限    
+>![](/images/deb-CN/6.png)  
+
+>##4. 输入命令 看图
+>![](/images/deb-CN/7.png)  
+
+>##回车
+>![](/images/deb-CN/8.png)  
+
+>##至此一个deb汉化包已完成，放到ifile安装就行了。
+>![](/images/deb-CN/9.png)  
+
+====================================================================================================
+#ios设备上：
+
+>##1.把你刚刚的创建的文件夹放到：/var/mobile 里
+>![](/images/deb-CN/10.png)  
+
+>##2.打开MobileTerminal，获取su权限
+>![](/images/deb-CN/11.png)  
+
+>##3. 输入命令，回车。。看图 （跟电脑上一样的）
+>![](/images/deb-CN/12.png)  
+
+>##4.ifile：deb包已经生成
+>![](/images/deb-CN/13.png)  
+
+====================================================================================================
+
+
+
+#**大家有什么不懂的去 新浪微博 [@我系蚯蚓啊](http://weibo.com/qzoro)找我，尽量为大家解答吧！！(求粉)**
