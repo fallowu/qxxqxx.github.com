@@ -4,7 +4,7 @@
   <title><![CDATA[Category: 资料 | 我系蚯蚓啊's Blog]]></title>
   <link href="http://qxxqxx.github.io/blog/categories/zi-liao/atom.xml" rel="self"/>
   <link href="http://qxxqxx.github.io/"/>
-  <updated>2013-08-14T09:41:55+08:00</updated>
+  <updated>2013-08-14T11:13:25+08:00</updated>
   <id>http://qxxqxx.github.io/</id>
   <author>
     <name><![CDATA[邱星翔]]></name>
@@ -14,11 +14,11 @@
 
   
   <entry>
-    <title type="html"><![CDATA[【我建这个网站的参考资料】]]></title>
+    <title type="html"><![CDATA[【Octopress建站-参考资料】]]></title>
     <link href="http://qxxqxx.github.io/blog/octopress-built/"/>
     <updated>2013-08-14T09:26:00+08:00</updated>
     <id>http://qxxqxx.github.io/blog/octopress-built</id>
-    <content type="html"><![CDATA[<h1>有点乱，自己整理吧</h1>
+    <content type="html"><![CDATA[<h1>我建这个网站的参考资料，有点乱，自己整理吧</h1>
 
 <blockquote><p>Octopress号称A blogging framework for hackers.   当然要自己折腾一下的，慢慢研究……</p></blockquote>
 
