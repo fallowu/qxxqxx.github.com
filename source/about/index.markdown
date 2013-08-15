@@ -6,7 +6,7 @@ comments: true
 sharing: true
 footer: true
 ---
-![头像](/images/about/1.jpg)
+<IMG alt="" src="http://qxxqxx.github.io/images/about/1.jpg" width=300 height=300></DIV>
 
 #<br/><br/><li>广东肇庆中学某人😬😬
 

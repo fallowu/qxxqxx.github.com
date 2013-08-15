@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "【我建这个网站的参考资料】"
+title: "【Octopress建站-参考资料】"
 date: 2013-08-14 09:26
 comments: true
 categories: 教程 Octopress 资料
 ---
-#有点乱，自己整理吧
+#我建这个网站的参考资料，有点乱，自己整理吧
 >Octopress号称A blogging framework for hackers.   当然要自己折腾一下的，慢慢研究……
 
 ##<br/>1.『WEIP测试组』『教程』教你在MAC下搭建极客专用的OCTOPRESS博客
