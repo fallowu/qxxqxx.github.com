@@ -4,7 +4,7 @@
   <title><![CDATA[Category: 插件 | 我系蚯蚓啊's Blog]]></title>
   <link href="http://qxxqxx.github.io/blog/categories/cha-jian/atom.xml" rel="self"/>
   <link href="http://qxxqxx.github.io/"/>
-  <updated>2013-08-15T12:05:04+08:00</updated>
+  <updated>2013-08-15T15:13:09+08:00</updated>
   <id>http://qxxqxx.github.io/</id>
   <author>
     <name><![CDATA[邱星翔]]></name>
@@ -198,6 +198,211 @@
 <h1>2*2 Folder Icons</h1>
 
 <p>文件夹略缩图</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[【插件汉化教程 两种方法图文视频详细教程】]]></title>
+    <link href="http://qxxqxx.github.io/blog/hanhua/"/>
+    <updated>2013-03-02T09:57:00+08:00</updated>
+    <id>http://qxxqxx.github.io/blog/hanhua</id>
+    <content type="html"><![CDATA[<blockquote><h3><li>转载请标明出处：<a href="http://qxxqxx.github.io/blog/2013/03/02/hanhua/">http://qxxqxx.github.io/blog/2013/03/02/hanhua/</a></h3>
+
+<h3><li>请大家支持正版，使用正版软件，插件</h3>
+
+<h3><li>帖子： <a href="http://bbs.weiphone.com/read-htm-tid-5881851-page-1.html">http://bbs.weiphone.com/read-htm-tid-5881851-page-1.html</a></h3></blockquote>
+
+<h1><li>请尊重作者劳动，随手回复(在最下面)</h1>
+
+<p>====================================================================================================</p>
+
+<blockquote><h1><li>Changelog:</h1>
+
+<blockquote><h2>3月16日  更新详细有声视频教程</h2>
+
+<h2>3月22日  重新录制简版教程（以发布在帖子中）</h2>
+
+<h2>3月23日  重新录制详细有声版教程（以发布在帖子中） + Springtomize 2完美汉化包（在方法二下方）</h2>
+
+<h2>4月5日   排版，修改一些细节</h2>
+
+<h2>4月12日  送上本人照片流</h2>
+
+<h2>6月1日   deb制作教程：<a href="http://qxxqxx.github.io/blog/2013/05/31/ubuntu-deb/">http://qxxqxx.github.io/blog/2013/05/31/ubuntu-deb/</a></h2>
+
+<h2>7月22日  更新插件汉化包在ios上的制作方法 ：<a href="http://qxxqxx.github.io/blog/2013/07/22/deb-cn/">http://qxxqxx.github.io/blog/2013/07/22/deb-cn/</a></h2></blockquote></blockquote>
+
+<!--more-->
+
+
+<p>====================================================================================================</p>
+
+<blockquote><h2><li>应大家的需要，再此发出插件汉化教程…</h2>
+
+<h2><li>全部由自己慢慢地摸索出来的，转载请说明出处。谢谢 有什么可以完善的到新浪微博找我</h2>
+
+<h2><li>总共有两个方法，废话不多说，开始……</h2></blockquote>
+
+<p>====================================================================================================</p>
+
+<blockquote><h1><li>插件常放置文件的目录（也可以到Cydia里查看目录）</h1>
+
+<blockquote><h2>//Library/PreferenceBundles</h2>
+
+<h2>//Library/PreferenceLoader/Preferences</h2>
+
+<h2>//Library/MobileSubstrate/DynamicLibrarie</h2>
+
+<h2>//System/Library/PreferenceBundles</h2>
+
+<h2>//Library/Weeloader</h2>
+
+<h2>//System/Library/WeeAppPlugins</h2></blockquote>
+
+<h1>一般所有的插件都能在其中一个目录里进行汉化 ，大家可以像我一样在iFile创建一个收藏夹…</h1>
+
+<p><img src="/images/HanHua/1.png" alt="" /></p></blockquote>
+
+<p>====================================================================================================</p>
+
+<h1><li>方法一：</h1>
+
+<h3>（优点: 较方便。缺点：更新插件会丢失汉化，有的菜单二级目录无法汉化。so 不推荐）</h3>
+
+<blockquote><h2><li>已Zephyr为例：</h2>
+
+<h2>1. 首先看到的界面当然是英文的</h2>
+
+<p><img src="/images/HanHua/2.png" alt="" /></p>
+
+<h2>2. 然后打开iFile，定位到//Library/PreferenceLoader/Preferences （就是上面给出的目录）</h2>
+
+<p><img src="/images/HanHua/3.png" alt="" /></p>
+
+<h2>3. 找到Zephyr.plist</h2>
+
+<p><img src="/images/HanHua/4.png" alt="" /></p>
+
+<h2>4. 点击，选择使用文本编辑器打开</h2>
+
+<p><img src="/images/HanHua/5.png" alt="" /></p>
+
+<h2>5. 然后我们先汉化第一个 文本 ：Enabled</h2>
+
+<h3>点击搜索，输入Enabled</h3>
+
+<p><img src="/images/HanHua/6.png" alt="" /></p>
+
+<h2>6. 然后选择这个单词 注意：旁边的标点别乱删</h2>
+
+<p><img src="/images/HanHua/7.png" alt="" /></p>
+
+<h2>7. 改成 开关</h2>
+
+<p><img src="/images/HanHua/8.png" alt="" /></p>
+
+<h2>8. 保存</h2>
+
+<h2>9. 杀掉设置后台</h2>
+
+<h2>10.回到设置里一看</h2>
+
+<p><img src="/images/HanHua/9.png" alt="" /></p>
+
+<h1>Finally   成功了!!!!!!</h1>
+
+<h1>但是在此不推荐第一种，因为一些多二级菜单的插件汉化不彻底，而且容易丢失。</h1>
+
+<h2>方法一  视频演示：</h2>
+
+<h3>【简版 v2.0】youku链接：<a href="http://v.youku.com/v_show/id_XNTMwODYxNTY4.html">http://v.youku.com/v_show/id_XNTMwODYxNTY4.html</a></h3>
+
+<p><iframe height=498 width=510 src="http://player.youku.com/embed/XNTMwODYxNTY4" frameborder=0 allowfullscreen></iframe></p>
+
+<h3>【详细有声版 v2.0】youku: <a href="http://v.youku.com/v_show/id_XNTMxMDYwNzk2.html">http://v.youku.com/v_show/id_XNTMxMDYwNzk2.html</a></h3>
+
+<p><iframe height=498 width=510 src="http://player.youku.com/embed/XNTMxMDYwNzk2" frameborder=0 allowfullscreen></iframe></p></blockquote>
+
+<p>====================================================================================================</p>
+
+<h1><li>第二种方法</h1>
+
+<h3>（极为推荐，I prefer this）</h3>
+
+<blockquote><h3><li>废话不多说，还是以Zephyr为例……</h3>
+
+<p><img src="/images/HanHua/10.png" alt="" /></p>
+
+<h2>1. 打开iFile，定位到//Library/PreferenceLoader/Preferences （就是上面给出的目录）</h2>
+
+<p><img src="/images/HanHua/11.png" alt="" /></p>
+
+<h2>2. 在此目录创建语言包</h2>
+
+<h4>简体：zh_CN.lproj</h4>
+
+<h4>繁体：zh_TW.lproj</h4>
+
+<p><img src="/images/HanHua/12.png" alt="" /></p>
+
+<h2>3. 找到Zephyr.plist</h2>
+
+<h3>4. 然后在zh_CN.lproj里创建 Zephyr.strings （文件名与你想修改的plist相同）</h3>
+
+<h2>一定要 选 常规文件</h2>
+
+<p><img src="/images/HanHua/13.png" alt="" /></p>
+
+<h2>5. 点击这个strings</h2>
+
+<h2>选择属性表编辑器，打开是空白的</h2>
+
+<p><img src="/images/HanHua/14.png" alt="" />
+<img src="/images/HanHua/15.png" alt="" /></p>
+
+<h2>6. 点击+</h2>
+
+<h2>直接输入你在设置里看到的文字，注意大小写</h2>
+
+<p><img src="/images/HanHua/16.png" alt="" /></p>
+
+<h2>7. 然后按 完成</h2>
+
+<h2>8. 然后再按你创建的属性表</h2>
+
+<p><img src="/images/HanHua/17.png" alt="" /></p>
+
+<h2>9. 输入你想汉化的内容</h2>
+
+<p><img src="/images/HanHua/18.png" alt="" /></p>
+
+<h2>10.杀掉设置后台</h2>
+
+<h1>Finally    看到效果了吧</h1>
+
+<h1>全面汉化效果:</h1>
+
+<p><img src="/images/HanHua/19.png" alt="" /></p>
+
+<h2>Zephyr 的 strings 全部:   (按一下看原图)</h2>
+
+<p><img src="/images/HanHua/20.jpg" alt="" /></p>
+
+<h1>还是推荐这种方法!!!!</h1>
+
+<h1>方法二  视频演示：</h1>
+
+<h2>【简版 v2.0】youku链接：<a href="http://v.youku.com/v_show/id_XNTMwODYzMDg0.html">http://v.youku.com/v_show/id_XNTMwODYzMDg0.html</a></h2>
+
+<p><iframe height=498 width=510 src="http://player.youku.com/embed/XNTMwODYzMDg0" frameborder=0 allowfullscreen></iframe></p>
+
+<h2>【详细有声版 v2.0】 youku链接:<a href="http://v.youku.com/v_show/id_XNTMxMDY0MDUy.html">http://v.youku.com/v_show/id_XNTMxMDY0MDUy.html</a></h2>
+
+<p><iframe height=498 width=510 src="http://player.youku.com/embed/XNTI3NDcxMjYw" frameborder=0 allowfullscreen></iframe></p></blockquote>
+
+<p>====================================================================================================</p>
+
+<h1><li>大家有什么不懂的去 新浪微博 <a href="http://weibo.com/qzoro">@我系蚯蚓啊</a>找我，尽量为大家解答吧！！(求粉)</h1>
 ]]></content>
   </entry>
   
