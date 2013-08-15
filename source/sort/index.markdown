@@ -8,8 +8,6 @@ footer: true
 ---
 <li>[教程 [ 5 ]](/blog/categories/jiao-cheng/)
 
-<li>[其他 [ 2 ]](/blog/categories/qi-ta/)
-
 <li>[图片 [ 2 ]](/blog/categories/tu-pian/)
 
 <li>[开箱 [ 2 ]](/blog/categories/kai-xiang/)
@@ -25,3 +23,7 @@ footer: true
 <li>[Octopress [ 1 ]](/blog/categories/octopress/)
 
 <li>[资料 [ 1 ]](/blog/categories/zi-liao/)
+
+<li>[视频 [ 2 ]](/blog/categories/shi-pin/)
+
+<li>[其他 [ 2 ]](/blog/categories/qi-ta/)
