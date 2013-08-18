@@ -4,7 +4,7 @@
   <title><![CDATA[Category: 插件 | 我系蚯蚓啊's Blog]]></title>
   <link href="http://qxxqxx.github.io/blog/categories/cha-jian/atom.xml" rel="self"/>
   <link href="http://qxxqxx.github.io/"/>
-  <updated>2013-08-16T21:06:44+08:00</updated>
+  <updated>2013-08-18T19:40:06+08:00</updated>
   <id>http://qxxqxx.github.io/</id>
   <author>
     <name><![CDATA[邱星翔]]></name>
@@ -14,20 +14,27 @@
 
   
   <entry>
-    <title type="html"><![CDATA[【我装的所有插件----45个】]]></title>
+    <title type="html"><![CDATA[【我装的所有插件----47个(视频)】]]></title>
     <link href="http://qxxqxx.github.io/blog/my-tweaks/"/>
-    <updated>2013-08-10T20:23:00+08:00</updated>
+    <updated>2013-08-18T19:37:00+08:00</updated>
     <id>http://qxxqxx.github.io/blog/my-tweaks</id>
-    <content type="html"><![CDATA[<h1>Action Menu</h1>
+    <content type="html"><![CDATA[<h2>……无聊试试用Motion做视频……</h2>
+
+<iframe height=498 width=510 src="http://player.youku.com/embed/XNTk3Njk5NDA4" frameborder=0 allowfullscreen></iframe>
+
+
+<h2>(内有插件列表)</h2>
+
+<!--more-->
+
+
+<h1>Action Menu</h1>
 
 <p>输入增强</p>
 
 <h1>Action Menu Plus Pack</h1>
 
 <p>输入增强</p>
-
-<!--more-->
-
 
 <h1>Activator</h1>
 
@@ -171,9 +178,19 @@
 
 <h1>Tap to Widgets</h1>
 
+<p>通知中心Widget</p>
+
 <h1>Uninstall Application Size</h1>
 
 <p>卸载软件时显示软件大小</p>
+
+<h1>User Agent Faker</h1>
+
+<p>修改UA</p>
+
+<h1>WeekINCal++</h1>
+
+<p>日历增强</p>
 
 <h1>WinterBoard</h1>
 
