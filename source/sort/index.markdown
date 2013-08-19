@@ -12,18 +12,18 @@ footer: true
 
 <li>[开箱 [ 2 ]](/blog/categories/kai-xiang/)
 
-<li>[Tweak [ 1 ]](/blog/categories/tweak/)
+<li>[Tweak [ 2 ]](/blog/categories/tweak/)
 
-<li>[插件 [ 1 ]](/blog/categories/cha-jian/)
+<li>[插件 [ 2 ]](/blog/categories/cha-jian/)
 
 <li>[RSS [ 1 ]](/blog/categories/rss/)
 
-<li>[越狱 [ 1 ]](/blog/categories/yue-yu/)
+<li>[越狱 [ 3 ]](/blog/categories/yue-yu/)
 
-<li>[Octopress [ 1 ]](/blog/categories/octopress/)
+<li>[Octopress [ 2 ]](/blog/categories/octopress/)
 
 <li>[资料 [ 1 ]](/blog/categories/zi-liao/)
 
-<li>[视频 [ 2 ]](/blog/categories/shi-pin/)
+<li>[视频 [ 3 ]](/blog/categories/shi-pin/)
 
-<li>[其他 [ 2 ]](/blog/categories/qi-ta/)
+<li>[其他 [ 3 ]](/blog/categories/qi-ta/)

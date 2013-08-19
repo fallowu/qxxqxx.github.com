@@ -1,0 +1,106 @@
+---
+layout: post
+title: "【我装的所有插件----47个(视频)】"
+date: 2013-08-18 19:37
+comments: true
+categories: 插件 tweak 视频
+---
+##……无聊试试用Motion做视频……
+<iframe height=498 width=510 src="http://player.youku.com/embed/XNTk3Njk5NDA4" frameborder=0 allowfullscreen></iframe>
+
+##(内有插件列表)
+<!--more-->
+#Action Menu
+输入增强
+#Action Menu Plus Pack
+输入增强
+#Activator
+手势
+#akLocationX
+修改定位
+#Aplo
+主题
+#AppCent
+下载百分比
+#AppInfo
+软件插件信息查看
+#ayecon
+主题
+#BytaFont
+字体切换
+#Bolt
+状态栏电池
+#Clear Badges
+双击清理角标
+#dafeijiPatch
+微信打飞机开挂
+#DietBulletin
+推送挑缩小到状态栏
+#Display Recorder
+屏幕录像
+#DisplayCandy
+软件开启，关闭，切换 动画改变
+#f.lux
+屏幕晚上自动暖色
+#Fake Operator
+修改网标
+#IAPFree
+内购
+#iCleaner Pro
+神器，清理
+#iFile
+文件管理
+#Infinidock
+无限dock
+#iOS7 Control Toggle Icons
+ios7 control center ncsettings主题
+#LockSecondslndicator
+锁屏时间秒数
+#MobileTerminal
+终端
+#NativeQR
+二维码
+#NCsettings
+通知中心 快捷开关
+#NEW iOS 7 Singal Bars
+ios7的5个原点信号
+#NoSpot
+隐藏spotlight
+#OpenSSH
+SSH
+#PanoMod
+开启全景
+#PasswordPilot
+app store纪录密码
+#Private Space
+自定义ios6的分享
+#SafariSwepez
+safari标签滑动关闭
+#SemiTether
+不完美越狱必备
+#Swipebright
+手势调亮度
+#SwipeSelection
+输入增强
+#SwitcherCleaner
+后台增强
+#Tap to Widgets
+通知中心Widget
+#Uninstall Application Size
+卸载软件时显示软件大小
+#User Agent Faker
+修改UA
+#WeekINCal++
+日历增强
+#WinterBoard
+主题切换
+#Zekton字体
+字体
+#Zephyr
+手势后台
+#方正稚艺
+字体
+#搜狗输入法
+输入法
+#2*2 Folder Icons
+文件夹略缩图
