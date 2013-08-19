@@ -4,7 +4,7 @@
   <title><![CDATA[我系蚯蚓啊's Blog]]></title>
   <link href="http://qxxqxx.github.io/atom.xml" rel="self"/>
   <link href="http://qxxqxx.github.io/"/>
-  <updated>2013-08-19T17:08:04+08:00</updated>
+  <updated>2013-08-19T17:23:26+08:00</updated>
   <id>http://qxxqxx.github.io/</id>
   <author>
     <name><![CDATA[邱星翔]]></name>
@@ -12,6 +12,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[【Octopress的Webclip（iOS桌面书签）增加图标】]]></title>
+    <link href="http://qxxqxx.github.io/blog/octopress-webclip/"/>
+    <updated>2013-08-19T17:16:00+08:00</updated>
+    <id>http://qxxqxx.github.io/blog/octopress-webclip</id>
+    <content type="html"><![CDATA[<p>1.首先，修改<code>/source/_includes/head.html</code>
+增加</p>
+
+<pre><code>&lt;link rel="apple-touch-icon" href="http://qxxqxx.github.io/images/apple-touch-icon.png"&gt;
+</code></pre>
+
+<p>2.然后把你的图标做成 <code>114*114</code> ，放到<code>/source/images/</code></p>
+
+<p>3.最后</p>
+
+<pre><code>rake generate
+rake deploy
+</code></pre>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[【我装的所有插件----47个(视频)】]]></title>
