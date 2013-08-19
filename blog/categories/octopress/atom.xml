@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Octopress | 我系蚯蚓啊's Blog]]></title>
   <link href="http://qxxqxx.github.io/blog/categories/octopress/atom.xml" rel="self"/>
   <link href="http://qxxqxx.github.io/"/>
-  <updated>2013-08-19T19:59:52+08:00</updated>
+  <updated>2013-08-19T21:01:35+08:00</updated>
   <id>http://qxxqxx.github.io/</id>
   <author>
     <name><![CDATA[邱星翔]]></name>
@@ -36,8 +36,12 @@ rake deploy
 <h2>本Blog Webclip添加：</h2>
 
 <p><li>1.直接Safari添加
-<img src="/images/octopress-webclip/safari.png" alt="Safari添加" />
-<li>2.描述文件添加 （<a href="/images/octopress-webclip/%E6%88%91%E7%B3%BB%E8%9A%AF%E8%9A%93%E5%95%8A's%20Blog.mobileconfig">点击这里添加</a>）
+<li>2.描述文件添加 （<a href="/images/octopress-webclip/%E6%88%91%E7%B3%BB%E8%9A%AF%E8%9A%93%E5%95%8A's%20Blog.mobileconfig">点击这里添加</a>）</p>
+
+<!--more-->
+
+
+<p><img src="/images/octopress-webclip/safari.png" alt="Safari添加" />
 <img src="/images/octopress-webclip/icon.png" alt="主屏幕效果" /></p>
 ]]></content>
   </entry>
