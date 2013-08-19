@@ -4,7 +4,7 @@
   <title><![CDATA[我系蚯蚓啊's Blog]]></title>
   <link href="http://qxxqxx.github.io/atom.xml" rel="self"/>
   <link href="http://qxxqxx.github.io/"/>
-  <updated>2013-08-19T21:05:48+08:00</updated>
+  <updated>2013-08-19T21:28:51+08:00</updated>
   <id>http://qxxqxx.github.io/</id>
   <author>
     <name><![CDATA[邱星翔]]></name>
@@ -36,7 +36,7 @@ rake deploy
 <h2>本Blog Webclip添加：</h2>
 
 <p><li>1.直接Safari添加
-<li>2.描述文件添加 （<a href="http://qxxqxx.github.io/images/octopress-webclip/%E6%88%91%E7%B3%BB%E8%9A%AF%E8%9A%93%E5%95%8A's%20Blog.mobileconfig">点击这里添加</a>）</p>
+<li>2.描述文件添加 （<a href="http://qxxqxx.github.io/images/octopress-webclip/add-webclip.mobileconfig">点击这里添加</a>）</p>
 
 <!--more-->
 
