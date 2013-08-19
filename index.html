@@ -12,8 +12,7 @@
 	<meta name="author" content="邱星翔">
 
 	
-	<meta name="description" content="Aug 19th, 2013 Octopress, 教程 【Octopress的Webclip（iOS桌面书签）增加图标】 1.首先，修改/source/_includes/head.html
-增加 &lt;link rel="apple-touch-icon" href="/images/ &hellip;">
+	<meta name="description" content="Aug 19th, 2013 Octopress, 教程 【Octopress的Webclip（iOS桌面书签）增加图标】 1.首先，修改/source/_includes/head.html 增加 &lt;link rel="apple-touch-icon" href="/images/ &hellip;">
 	
 
   <!-- http://t.co/dKP3o1e -->
@@ -121,19 +120,27 @@
 	</div>
 	<h1 class="title" itemprop="name"><a href="/blog/octopress-webclip/" itemprop="url">【Octopress的Webclip（iOS桌面书签）增加图标】</a></h1>
 	<div class="entry-content" itemprop="articleBody">
-		<p>1.首先，修改<code>/source/_includes/head.html</code>
-增加</p>
+		<h2>1.首先，修改<code>/source/_includes/head.html</code></h2>
+
+<h2>增加</h2>
 
 <pre><code>&lt;link rel="apple-touch-icon" href="/images/apple-touch-icon.png"&gt;
 </code></pre>
 
-<p>2.然后把你的图标做成 <code>114*114</code> ，放到<code>/source/images/</code></p>
+<h2>2.然后把你的图标做成 <code>114*114</code> ，放到<code>/source/images/</code></h2>
 
-<p>3.最后</p>
+<h2>3.最后</h2>
 
 <pre><code>rake generate
 rake deploy
 </code></pre>
+
+<h2>本Blog Webclip添加：</h2>
+
+<p><li>1.直接Safari添加
+<img src="/images/octopress-webclip/safari.png" alt="Safari添加" />
+<li>2.描述文件添加 （<a href="/images/octopress-webclip/%E6%88%91%E7%B3%BB%E8%9A%AF%E8%9A%93%E5%95%8A's%20Blog.mobileconfig">点击这里添加</a>）
+<img src="/images/octopress-webclip/icon.png" alt="主屏幕效果" /></p>
 
 		
 		
