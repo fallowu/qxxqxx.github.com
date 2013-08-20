@@ -6,7 +6,7 @@ comments: false
 sharing: true
 footer: true
 ---
-<li>[教程 [ 5 ]](/blog/categories/jiao-cheng/)
+<li>[教程 [ 7 ]](/blog/categories/jiao-cheng/)
 
 <li>[图片 [ 2 ]](/blog/categories/tu-pian/)
 
@@ -20,7 +20,7 @@ footer: true
 
 <li>[越狱 [ 3 ]](/blog/categories/yue-yu/)
 
-<li>[Octopress [ 2 ]](/blog/categories/octopress/)
+<li>[Octopress [ 3 ]](/blog/categories/octopress/)
 
 <li>[资料 [ 1 ]](/blog/categories/zi-liao/)
 

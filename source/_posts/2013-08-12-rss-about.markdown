@@ -7,7 +7,6 @@ categories: 其他 RSS
 ---
 >#<li>本网站RSS订阅地址：
 >##<br/><li>[http://qxxqxx.github.io/rss](http://qxxqxx.github.io/rss)
-##<li>[feed://qxxqxx.github.io/rss.xml](feed://qxxqxx.github.io/rss.xml)
 
 #<br/><li>欢迎订阅
 

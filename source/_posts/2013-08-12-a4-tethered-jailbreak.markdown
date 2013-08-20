@@ -10,7 +10,7 @@ categories: 教程 越狱
 
 
 
->##<br/><li>1.首先下载打开 Redsn0w 0.9.15b3 （点击下载：[Win](/images/A4-ios6.1.3-jailbreak/redsn0w_win_0.9.15b3.rar)，[Mac](/images/A4-ios6.1.3-jailbreak/redsn0w.zip)) 和 A4设备iOS 6.0 的.ipsw固件
+>##<br/><li>1.首先下载打开 Redsn0w 0.9.15b3 （点击下载：[Windows](http://pan.baidu.com/share/link?shareid=1552762125&uk=34698226)，[Mac](http://yun.baidu.com/share/link?shareid=3243471903&uk=34698226&third=0)) 和 A4设备iOS 6.0 的.ipsw固件
 
 
 
