@@ -4,7 +4,7 @@
   <title><![CDATA[Category: 教程 | 我系蚯蚓啊's Blog]]></title>
   <link href="http://qxxqxx.github.io/blog/categories/jiao-cheng/atom.xml" rel="self"/>
   <link href="http://qxxqxx.github.io/"/>
-  <updated>2013-08-22T17:23:05+08:00</updated>
+  <updated>2013-08-23T20:29:10+08:00</updated>
   <id>http://qxxqxx.github.io/</id>
   <author>
     <name><![CDATA[邱星翔]]></name>
@@ -246,9 +246,9 @@ rake deploy
     <id>http://qxxqxx.github.io/blog/deb-cn</id>
     <content type="html"><![CDATA[<blockquote><h1>请尊重作者劳动，随手回复(在最下面)</h1>
 
-<h3>1.如何汉化插件？   请看我的第 1 篇教程：  <a href="http://qxxqxx.github.io/blog/2013/03/02/hanhua/">http://qxxqxx.github.io/blog/2013/03/02/hanhua/</a></h3>
+<h3>1.如何汉化插件？   请看我的第 1 篇教程：  <a href="http://qxxqxx.github.io/blog/hanhua/">http://qxxqxx.github.io/blog/hanhua/</a></h3>
 
-<h3>2.认识什么是.deb  请看我的第 2 篇教程：<a href="http://qxxqxx.github.io/blog/2013/05/31/ubuntu-deb/">http://qxxqxx.github.io/blog/2013/05/31/ubuntu-deb/</a>   （建议看完此文，再看本文）</h3></blockquote>
+<h3>2.认识什么是.deb  请看我的第 2 篇教程：<a href="http://qxxqxx.github.io/blog/ubuntu-deb/">http://qxxqxx.github.io/blog/ubuntu-deb/</a>   （建议看完此文，再看本文）</h3></blockquote>
 
 <p>====================================================================================================</p>
 
@@ -284,7 +284,7 @@ rake deploy
 
 <h1>电脑上：(我的系统是mac os x，且已安装fink)</h1>
 
-<blockquote><h2>1.创建需要 同 放置汉化.strings路径一样 的 文件夹 （看完我的第一篇教程：<a href="http://qxxqxx.github.io/blog/2013/03/02/hanhua/">http://qxxqxx.github.io/blog/2013/03/02/hanhua/</a>）</h2>
+<blockquote><h2>1.创建需要 同 放置汉化.strings路径一样 的 文件夹 （看完我的第一篇教程：<a href="http://qxxqxx.github.io/blog/hanhua/">http://qxxqxx.github.io/blog/hanhua/</a>）</h2>
 
 <h3>现在我正在制作 DietBulletin汉化包 ，汉化.strings 需要放到 /Library/PreferenceLoader/Preferences/zh_CN.lproj 里。。看图</h3>
 
@@ -292,7 +292,7 @@ rake deploy
 
 <h2>2.创建DEBIAN文件夹（在此deb文件夹的根目录）并在里面创建 control 文件</h2>
 
-<h3>（看我的第二篇教程：<a href="http://qxxqxx.github.io/blog/2013/05/31/ubuntu-deb/">http://qxxqxx.github.io/blog/2013/05/31/ubuntu-deb/</a>）</h3>
+<h3>（看我的第二篇教程：<a href="http://qxxqxx.github.io/blog/ubuntu-deb/">http://qxxqxx.github.io/blog/ubuntu-deb/</a>）</h3>
 
 <p><img src="/images/deb-CN/4.png" alt="" /><br/>
 <img src="/images/deb-CN/5.png" alt="" /></p>
