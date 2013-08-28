@@ -3,13 +3,13 @@ layout: post
 title: "【在电脑上，ios设备上制作.deb插件汉化包】"
 date: 2013-07-22 14:55
 comments: true
-categories: 教程
+categories: 教程 插件 tweak
 description: "【在电脑上，ios设备上制作.deb插件汉化包】" 
 keywords: 制作插件,汉化,seb包,seb,汉化插件,汉化补丁
 ---
 >#请尊重作者劳动，随手回复(在最下面)
->###1.如何汉化插件？   请看我的第 1 篇教程：  <http://qxxqxx.github.io/blog/2013/03/02/hanhua/>             
->###2.认识什么是.deb  请看我的第 2 篇教程：<http://qxxqxx.github.io/blog/2013/05/31/ubuntu-deb/>   （建议看完此文，再看本文）
+>###1.如何汉化插件？   请看我的第 1 篇教程：  <http://qxxqxx.github.io/blog/hanhua/>             
+>###2.认识什么是.deb  请看我的第 2 篇教程：<http://qxxqxx.github.io/blog/ubuntu-deb/>   （建议看完此文，再看本文）
 
 ====================================================================================================
 >#准备工作：
@@ -45,14 +45,14 @@ keywords: 制作插件,汉化,seb包,seb,汉化插件,汉化补丁
 
 
 
->##1.创建需要 同 放置汉化.strings路径一样 的 文件夹 （看完我的第一篇教程：<http://qxxqxx.github.io/blog/2013/03/02/hanhua/>）
+>##1.创建需要 同 放置汉化.strings路径一样 的 文件夹 （看完我的第一篇教程：<http://qxxqxx.github.io/blog/hanhua/>）
 >###现在我正在制作 DietBulletin汉化包 ，汉化.strings 需要放到 /Library/PreferenceLoader/Preferences/zh_CN.lproj 里。。看图
 >![](/images/deb-CN/3.png)  
 
  
         
 >##2.创建DEBIAN文件夹（在此deb文件夹的根目录）并在里面创建 control 文件   
->###（看我的第二篇教程：<http://qxxqxx.github.io/blog/2013/05/31/ubuntu-deb/>）
+>###（看我的第二篇教程：<http://qxxqxx.github.io/blog/ubuntu-deb/>）
 >![](/images/deb-CN/4.png)  
 >![](/images/deb-CN/5.png)  
 

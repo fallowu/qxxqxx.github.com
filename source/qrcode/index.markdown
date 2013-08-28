@@ -9,4 +9,4 @@ footer: true
 #用手机扫一扫吧
 ![二维码](/images/qrcode.png)
 
-![IOS](images/ios-qrcode.png)
+![IOS](/images/ios-qrcode.png)
