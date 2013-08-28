@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: 汉化 | 我系蚯蚓啊's Blog]]></title>
+  <link href="http://qxxqxx.github.io/blog/categories/yi-hua/atom.xml" rel="self"/>
+  <link href="http://qxxqxx.github.io/"/>
+  <updated>2013-08-28T10:57:32+08:00</updated>
+  <id>http://qxxqxx.github.io/</id>
+  <author>
+    <name><![CDATA[邱星翔]]></name>
+    <email><![CDATA[694747680@qq.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[【自制Tweetbot汉化包】]]></title>
+    <link href="http://qxxqxx.github.io/blog/tweetbot-cn/"/>
+    <updated>2013-08-28T10:50:00+08:00</updated>
+    <id>http://qxxqxx.github.io/blog/tweetbot-cn</id>
+    <content type="html"><![CDATA[<h1>自制Tweetbot最新版汉化包</h1>
+
+<p><img src="/images/tweetbot-cn/1.png" alt="图" /></p>
+
+<h2><a href="/images/tweebot-cn/tweetbot-cn.deb">点击下载 Tweetbot-cn.deb</a></h2>
+]]></content>
+  </entry>
+  
+</feed>
