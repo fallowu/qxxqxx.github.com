@@ -2,15 +2,15 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://qxxqxx.github.io/blog/hanhua/</loc>
-        <lastmod>2013-08-23T20:28:30+08:00</lastmod>
+        <lastmod>2013-08-28T11:06:39+08:00</lastmod>
     </url>
     <url>
         <loc>http://qxxqxx.github.io/blog/ubuntu-deb/</loc>
-        <lastmod>2013-08-23T20:28:54+08:00</lastmod>
+        <lastmod>2013-08-28T11:06:52+08:00</lastmod>
     </url>
     <url>
         <loc>http://qxxqxx.github.io/blog/deb-cn/</loc>
-        <lastmod>2013-08-23T20:28:03+08:00</lastmod>
+        <lastmod>2013-08-28T11:06:30+08:00</lastmod>
     </url>
     <url>
         <loc>http://qxxqxx.github.io/blog/unthreadedjb-iphone4-ios4-3-5-prove/</loc>
@@ -50,7 +50,7 @@
     </url>
     <url>
         <loc>http://qxxqxx.github.io/blog/my-tweaks/</loc>
-        <lastmod>2013-08-28T11:02:18+08:00</lastmod>
+        <lastmod>2013-08-28T11:07:08+08:00</lastmod>
     </url>
     <url>
         <loc>http://qxxqxx.github.io/blog/octopress-webclip/</loc>
@@ -58,7 +58,7 @@
     </url>
     <url>
         <loc>http://qxxqxx.github.io/blog/tweetbot-cn/</loc>
-        <lastmod>2013-08-28T10:57:22+08:00</lastmod>
+        <lastmod>2013-08-28T11:07:15+08:00</lastmod>
     </url>
     <url>
         <loc>http://qxxqxx.github.io/about/</loc>
@@ -66,7 +66,7 @@
     </url>
     <url>
         <loc>http://qxxqxx.github.io/blog/archives/</loc>
-        <lastmod>2013-08-28T11:02:18+08:00</lastmod>
+        <lastmod>2013-08-28T11:07:15+08:00</lastmod>
     </url>
     <url>
         <loc>http://qxxqxx.github.io/blog/categories/</loc>
@@ -74,7 +74,7 @@
     </url>
     <url>
         <loc>http://qxxqxx.github.io/</loc>
-        <lastmod>2013-08-28T11:02:18+08:00</lastmod>
+        <lastmod>2013-08-28T11:07:15+08:00</lastmod>
     </url>
     <url>
         <loc>http://qxxqxx.github.io/qrcode/</loc>
@@ -90,6 +90,6 @@
     </url>
     <url>
         <loc>http://qxxqxx.github.io/sort/</loc>
-        <lastmod>2013-08-28T11:04:27+08:00</lastmod>
+        <lastmod>2013-08-28T11:08:09+08:00</lastmod>
     </url>
 </urlset>
