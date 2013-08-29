@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "【Mac OS X双击清空废纸篓】"
+title: "【Mac OS X 利用 AppleScript 双击清空废纸篓】"
 date: 2013-08-28 16:47
 comments: true
 categories: 教程
 ---
-<li>OS X下清空废纸篓，要么`右击，再按清空`或者`Command+Shift+delete`或者`Command+Shift+option+delete`。
+<li>OS X下清空废纸篓，要么`右击，再按清空`或者`Command+shift+delete`或者`Command+shift+option+delete`。
 
 <li>个人觉得太麻烦了，用`AppleScript`自己写一个小小的App放到桌面的废纸篓旁边，双击一下就能清空了。
 

@@ -12,7 +12,7 @@ footer: true
 
 <li>[开箱 [ 2 ]](/blog/categories/kai-xiang/)
 
-<li>[Tweak [ 5 ]](/blog/categories/Tweak/)
+<li>[Tweak [ 5 ]](/blog/categories/tweak/)
 
 <li>[插件 [ 5 ]](/blog/categories/cha-jian/)
 
