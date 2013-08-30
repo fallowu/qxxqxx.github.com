@@ -4,7 +4,7 @@
   <title><![CDATA[Category: 教程 | 我系蚯蚓啊's Blog]]></title>
   <link href="http://qxxqxx.com/blog/categories/jiao-cheng/atom.xml" rel="self"/>
   <link href="http://qxxqxx.com/"/>
-  <updated>2013-08-30T14:20:05+08:00</updated>
+  <updated>2013-08-30T15:15:58+08:00</updated>
   <id>http://qxxqxx.com/</id>
   <author>
     <name><![CDATA[邱星翔]]></name>
@@ -12,6 +12,34 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[【自定义 Octopress 域名】]]></title>
+    <link href="http://qxxqxx.com/blog/octopress-domain-name/"/>
+    <updated>2013-08-30T14:56:00+08:00</updated>
+    <id>http://qxxqxx.com/blog/octopress-domain-name</id>
+    <content type="html"><![CDATA[<p><li>在Github上搭建Octopress Blog，是完全免费的，但是缺点就是网址固定<code>github's username.github.io</code>
+<li>当然也有许多的免费顶级域名，例如：<code>.tk</code> 新的 <code>.ml</code> <code>.ga</code> 等等……
+<li>但是我还是喜欢<code>.com</code>，所以买了一个：<a href="http://qxxqxx.com">http://qxxqxx.com</a></p>
+
+<br/>1. 首先，你要注册一个域名……这个就不多说了，自己Google去吧。
+
+
+<p>2.在<code>/source</code>里面，创建一个名为<code>CNAME</code>的无后缀文本，在里面填写你自己注册的域名。</p>
+
+<p><img src="/images/octopress-domain-name/1.png" alt="CNAME" /></p>
+
+<p>3.修改<code>_config.yml</code>，把第一行的<code>url</code>修改为你注册的域名。</p>
+
+<p><img src="/images/octopress-domain-name/2.png" alt="CNAME" /></p>
+
+<p>最后：</p>
+
+<pre><code>$ rake generate
+$ rake deploy
+</code></pre>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[【Mac OS X 利用 AppleScript 双击清空废纸篓】]]></title>
@@ -174,92 +202,6 @@ rake deploy
 <h2><br/>15.为Octopress修改主题和自定义样式 &ndash; 雁起平沙的网络日志</h2>
 
 <h2><a href="http://yanping.me/cn/blog/2012/01/07/theming-and-customization/">http://yanping.me/cn/blog/2012/01/07/theming-and-customization/</a></h2>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[【A4设备iOS 6.1.3不完美越狱教程】]]></title>
-    <link href="http://qxxqxx.com/blog/a4-tethered-jailbreak/"/>
-    <updated>2013-08-12T22:31:00+08:00</updated>
-    <id>http://qxxqxx.com/blog/a4-tethered-jailbreak</id>
-    <content type="html"><![CDATA[<h1>请尊重作者劳动，随手回复(在最下面)</h1>
-
-<blockquote><h2><br/><li>1.首先下载打开 Redsn0w 0.9.15b3 （点击下载：<a href="http://pan.baidu.com/share/link?shareid=1552762125&amp;uk=34698226">Windows</a>，<a href="http://yun.baidu.com/share/link?shareid=3243471903&amp;uk=34698226&amp;third=0">Mac</a>) 和 A4设备iOS 6.0 的.ipsw固件</h2>
-
-<h2><li>2.点击 Extras</h2>
-
-<p><img src="/images/A4-ios6.1.3-jailbreak/1.png" alt="" /></p></blockquote>
-
-<!--more-->
-
-
-<blockquote><h2><li>3.点击 Select IPSW</h2>
-
-<p><img src="/images/A4-ios6.1.3-jailbreak/2.png" alt="" /></p>
-
-<h2><li>4.选择 对应设备 iOS 6.0 的固件</h2>
-
-<p><img src="/images/A4-ios6.1.3-jailbreak/3.png" alt="" />
-<img src="/images/A4-ios6.1.3-jailbreak/4.png" alt="" /></p>
-
-<h2><li>5.点击 Back</h2>
-
-<p><img src="/images/A4-ios6.1.3-jailbreak/5.png" alt="" /></p>
-
-<h2><li>6.点击 Jailbreak</h2>
-
-<p><img src="/images/A4-ios6.1.3-jailbreak/6.png" alt="" /></p>
-
-<h2><li>7.等待处理越狱文件</h2>
-
-<p><img src="/images/A4-ios6.1.3-jailbreak/7.png" alt="" /></p>
-
-<h2><li>8.点击 Next</h2>
-
-<p><img src="/images/A4-ios6.1.3-jailbreak/8.png" alt="" /></p></blockquote>
-
-<h2><li>9.进入DFU 模式</h2>
-
-<blockquote><p><img src="/images/A4-ios6.1.3-jailbreak/9.png" alt="" />
-<img src="/images/A4-ios6.1.3-jailbreak/10.png" alt="" /></p>
-
-<h2><li>10.等待越狱完成</h2>
-
-<h1>这个时候手机上会出现大菠萝一个，请等待，5分钟左右</h1></blockquote>
-
-<h1>因为是不完美越狱，所以需要引导开机（刚刚越狱完毕开机，是没有Cydia的，需要重启一遍手机才会出现）</h1>
-
-<h1><br/><li>以下是引导开机：</h1>
-
-<blockquote><h2><li>1.打开 Redsn0w 0.9.15b3</h2>
-
-<h2><li>2.点击 Extras</h2>
-
-<p><img src="/images/A4-ios6.1.3-jailbreak/1.png" alt="" /></p>
-
-<h2><li>3.点击 Select IPSW</h2>
-
-<p><img src="/images/A4-ios6.1.3-jailbreak/2.png" alt="" /></p>
-
-<h2><li>4.选择 对应设备 iOS 6.0 的固件</h2>
-
-<p><img src="/images/A4-ios6.1.3-jailbreak/3.png" alt="" />
-<img src="/images/A4-ios6.1.3-jailbreak/4.png" alt="" /></p>
-
-<h2><li>5.点击 Just Boot</h2>
-
-<p><img src="/images/A4-ios6.1.3-jailbreak/5.png" alt="" /></p>
-
-<h2><li>6.进入DFU模式</h2>
-
-<p><img src="/images/A4-ios6.1.3-jailbreak/9.png" alt="" />
-<img src="/images/A4-ios6.1.3-jailbreak/10.png" alt="" /></p>
-
-<h2><li>7.等待完成，如果手机上出现菠萝，代表引导开机成功，只需等待</h2></blockquote>
-
-<h1><br/><li>不完美越狱完成，仅限A4设备</h1>
-
-<h1><br/><br/><strong>大家有什么不懂的去 新浪微博 <a href="http://weibo.com/qzoro">@我系蚯蚓啊</a>找我，尽量为大家解答吧！！(求粉)</strong></h1>
 ]]></content>
   </entry>
   

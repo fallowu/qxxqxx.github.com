@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Octopress | 我系蚯蚓啊's Blog]]></title>
   <link href="http://qxxqxx.com/blog/categories/octopress/atom.xml" rel="self"/>
   <link href="http://qxxqxx.com/"/>
-  <updated>2013-08-30T14:20:05+08:00</updated>
+  <updated>2013-08-30T15:15:58+08:00</updated>
   <id>http://qxxqxx.com/</id>
   <author>
     <name><![CDATA[邱星翔]]></name>
@@ -12,6 +12,34 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[【自定义 Octopress 域名】]]></title>
+    <link href="http://qxxqxx.com/blog/octopress-domain-name/"/>
+    <updated>2013-08-30T14:56:00+08:00</updated>
+    <id>http://qxxqxx.com/blog/octopress-domain-name</id>
+    <content type="html"><![CDATA[<p><li>在Github上搭建Octopress Blog，是完全免费的，但是缺点就是网址固定<code>github's username.github.io</code>
+<li>当然也有许多的免费顶级域名，例如：<code>.tk</code> 新的 <code>.ml</code> <code>.ga</code> 等等……
+<li>但是我还是喜欢<code>.com</code>，所以买了一个：<a href="http://qxxqxx.com">http://qxxqxx.com</a></p>
+
+<br/>1. 首先，你要注册一个域名……这个就不多说了，自己Google去吧。
+
+
+<p>2.在<code>/source</code>里面，创建一个名为<code>CNAME</code>的无后缀文本，在里面填写你自己注册的域名。</p>
+
+<p><img src="/images/octopress-domain-name/1.png" alt="CNAME" /></p>
+
+<p>3.修改<code>_config.yml</code>，把第一行的<code>url</code>修改为你注册的域名。</p>
+
+<p><img src="/images/octopress-domain-name/2.png" alt="CNAME" /></p>
+
+<p>最后：</p>
+
+<pre><code>$ rake generate
+$ rake deploy
+</code></pre>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[【Octopress的Webclip（iOS主屏幕书签）增加图标】]]></title>
