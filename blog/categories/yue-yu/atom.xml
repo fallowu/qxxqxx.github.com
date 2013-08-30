@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: 越狱 | 我系蚯蚓啊's Blog]]></title>
-  <link href="http://qxxqxx.cn/blog/categories/yue-yu/atom.xml" rel="self"/>
-  <link href="http://qxxqxx.cn/"/>
-  <updated>2013-08-30T11:28:44+08:00</updated>
-  <id>http://qxxqxx.cn/</id>
+  <link href="http://qxxqxx.github.io/blog/categories/yue-yu/atom.xml" rel="self"/>
+  <link href="http://qxxqxx.github.io/"/>
+  <updated>2013-08-30T11:45:53+08:00</updated>
+  <id>http://qxxqxx.github.io/</id>
   <author>
     <name><![CDATA[邱星翔]]></name>
     <email><![CDATA[694747680@qq.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[【A4设备iOS 6.1.3不完美越狱教程】]]></title>
-    <link href="http://qxxqxx.cn/blog/a4-tethered-jailbreak/"/>
+    <link href="http://qxxqxx.github.io/blog/a4-tethered-jailbreak/"/>
     <updated>2013-08-12T22:31:00+08:00</updated>
-    <id>http://qxxqxx.cn/blog/a4-tethered-jailbreak</id>
+    <id>http://qxxqxx.github.io/blog/a4-tethered-jailbreak</id>
     <content type="html"><![CDATA[<h1>请尊重作者劳动，随手回复(在最下面)</h1>
 
 <blockquote><h2><br/><li>1.首先下载打开 Redsn0w 0.9.15b3 （点击下载：<a href="http://pan.baidu.com/share/link?shareid=1552762125&amp;uk=34698226">Windows</a>，<a href="http://yun.baidu.com/share/link?shareid=3243471903&amp;uk=34698226&amp;third=0">Mac</a>) 和 A4设备iOS 6.0 的.ipsw固件</h2>
@@ -101,9 +101,9 @@
   
   <entry>
     <title type="html"><![CDATA[【UnthreadedJB iPhone4 iOS4.3.5 完美越狱】]]></title>
-    <link href="http://qxxqxx.cn/blog/unthreadedjb-iphone4-ios4-3-5-prove/"/>
+    <link href="http://qxxqxx.github.io/blog/unthreadedjb-iphone4-ios4-3-5-prove/"/>
     <updated>2013-07-30T22:34:00+08:00</updated>
-    <id>http://qxxqxx.cn/blog/unthreadedjb-iphone4-ios4-3-5-prove</id>
+    <id>http://qxxqxx.github.io/blog/unthreadedjb-iphone4-ios4-3-5-prove</id>
     <content type="html"><![CDATA[<h1>亲测：UnthreadedJB iPhone4 iOS4.3.5 完美越狱</h1>
 
 <h2>视频：</h2>
@@ -115,9 +115,9 @@
   
   <entry>
     <title type="html"><![CDATA[【插件汉化教程 两种方法图文视频详细教程】]]></title>
-    <link href="http://qxxqxx.cn/blog/hanhua/"/>
+    <link href="http://qxxqxx.github.io/blog/hanhua/"/>
     <updated>2013-03-02T09:57:00+08:00</updated>
-    <id>http://qxxqxx.cn/blog/hanhua</id>
+    <id>http://qxxqxx.github.io/blog/hanhua</id>
     <content type="html"><![CDATA[<blockquote><h3><li>转载请标明出处：<a href="http://qxxqxx.github.io/blog/hanhua/">http://qxxqxx.github.io/blog/hanhua/</a></h3>
 
 <h3><li>请大家支持正版，使用正版软件，插件</h3>

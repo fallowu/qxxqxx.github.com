@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[我系蚯蚓啊's Blog]]></title>
-  <link href="http://qxxqxx.cn/atom.xml" rel="self"/>
-  <link href="http://qxxqxx.cn/"/>
-  <updated>2013-08-30T11:28:44+08:00</updated>
-  <id>http://qxxqxx.cn/</id>
+  <link href="http://qxxqxx.github.io/atom.xml" rel="self"/>
+  <link href="http://qxxqxx.github.io/"/>
+  <updated>2013-08-30T11:45:53+08:00</updated>
+  <id>http://qxxqxx.github.io/</id>
   <author>
     <name><![CDATA[邱星翔]]></name>
     <email><![CDATA[694747680@qq.com]]></email>
@@ -15,14 +15,14 @@
   
   <entry>
     <title type="html"><![CDATA[【Mac OS X 利用 AppleScript 双击清空废纸篓】]]></title>
-    <link href="http://qxxqxx.cn/blog/mac-empty-the-trash-app/"/>
+    <link href="http://qxxqxx.github.io/blog/mac-empty-the-trash-app/"/>
     <updated>2013-08-28T16:47:00+08:00</updated>
-    <id>http://qxxqxx.cn/blog/mac-empty-the-trash-app</id>
+    <id>http://qxxqxx.github.io/blog/mac-empty-the-trash-app</id>
     <content type="html"><![CDATA[<p><li>OS X下清空废纸篓，要么<code>右击，再按清空</code>或者<code>Command+shift+delete</code>或者<code>Command+shift+option+delete</code>。</p>
 
 <p><li>个人觉得太麻烦了，用<code>AppleScript</code>自己写一个小小的App放到桌面的废纸篓旁边，双击一下就能清空了。</p>
 
-<p><img src="http://qxxqxx.cn/images/mac-empty-the-trash-app/1.png" alt="桌面" /></p>
+<p><img src="http://qxxqxx.github.io/images/mac-empty-the-trash-app/1.png" alt="桌面" /></p>
 
 <p>代码如下：</p>
 
@@ -33,20 +33,20 @@ end tell
 
 <p>或者直接下载我做好的 App</p>
 
-<h2><a href="http://qxxqxx.cn/images/mac-empty-the-trash-app/empty.zip">点击下载</a></h2>
+<h2><a href="http://qxxqxx.github.io/images/mac-empty-the-trash-app/empty.zip">点击下载</a></h2>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[【Octopress的Webclip（iOS主屏幕书签）增加图标】]]></title>
-    <link href="http://qxxqxx.cn/blog/octopress-webclip/"/>
+    <link href="http://qxxqxx.github.io/blog/octopress-webclip/"/>
     <updated>2013-08-19T17:16:00+08:00</updated>
-    <id>http://qxxqxx.cn/blog/octopress-webclip</id>
+    <id>http://qxxqxx.github.io/blog/octopress-webclip</id>
     <content type="html"><![CDATA[<h2>1.首先，修改<code>/source/_includes/head.html</code></h2>
 
 <h2>增加</h2>
 
-<pre><code>&lt;link rel="apple-touch-icon" href="http://qxxqxx.cn/images/apple-touch-icon.png"&gt;
+<pre><code>&lt;link rel="apple-touch-icon" href="http://qxxqxx.github.io/images/apple-touch-icon.png"&gt;
 </code></pre>
 
 <h2>2.然后把你的图标做成 <code>114*114</code> ，放到<code>/source/images/</code></h2>
@@ -60,21 +60,21 @@ rake deploy
 <h2>本Blog Webclip添加：</h2>
 
 <p><li>1.直接Safari添加
-<li>2.描述文件添加 （<a href="http://qxxqxx.cn/images/octopress-webclip/add-webclip.mobileconfig">点击这里添加</a>）</p>
+<li>2.描述文件添加 （<a href="http://qxxqxx.github.io/images/octopress-webclip/add-webclip.mobileconfig">点击这里添加</a>）</p>
 
 <!--more-->
 
 
-<p><img src="http://qxxqxx.cn/images/octopress-webclip/safari.png" alt="Safari添加" />
-<img src="http://qxxqxx.cn/images/octopress-webclip/icon.png" alt="主屏幕效果" /></p>
+<p><img src="http://qxxqxx.github.io/images/octopress-webclip/safari.png" alt="Safari添加" />
+<img src="http://qxxqxx.github.io/images/octopress-webclip/icon.png" alt="主屏幕效果" /></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[【我装的所有插件----47个(视频)】]]></title>
-    <link href="http://qxxqxx.cn/blog/my-tweaks/"/>
+    <link href="http://qxxqxx.github.io/blog/my-tweaks/"/>
     <updated>2013-08-18T19:37:00+08:00</updated>
-    <id>http://qxxqxx.cn/blog/my-tweaks</id>
+    <id>http://qxxqxx.github.io/blog/my-tweaks</id>
     <content type="html"><![CDATA[<h2>……无聊试试用Motion做视频……</h2>
 
 <iframe height=498 width=510 src="http://player.youku.com/embed/XNTk3Njk5NDA4" frameborder=0 allowfullscreen></iframe>
@@ -277,9 +277,9 @@ rake deploy
   
   <entry>
     <title type="html"><![CDATA[【为Octopress的Greyshade主题增加新浪微博,Instagram和Dribbble】]]></title>
-    <link href="http://qxxqxx.cn/blog/greyshade-qiuyin/"/>
+    <link href="http://qxxqxx.github.io/blog/greyshade-qiuyin/"/>
     <updated>2013-08-16T11:47:00+08:00</updated>
-    <id>http://qxxqxx.cn/blog/greyshade-qiuyin</id>
+    <id>http://qxxqxx.github.io/blog/greyshade-qiuyin</id>
     <content type="html"><![CDATA[<p>Greyshade 是 Shashank Mehta 开发的一款 Octopress 的主题，非常多人使用，侧栏的社交网站链接部分支持很多国外社交网站，但不支持新浪微博,Instagram和Dribbble，So 我增加了这三个网站的支持。</p>
 
 <p>只是修改了 <code>sass/parts/_header.scss</code> 和 <code>source/_includes/header.html</code>，增加了微博,Instagram和Dribbble 的 Icon（自己Photoshop），链接：<a href="https://github.com/qxxqxx/Greyshade">https://github.com/qxxqxx/Greyshade</a></p>
@@ -310,9 +310,9 @@ rake deploy
   
   <entry>
     <title type="html"><![CDATA[【Octopress建站-参考资料】]]></title>
-    <link href="http://qxxqxx.cn/blog/octopress-built/"/>
+    <link href="http://qxxqxx.github.io/blog/octopress-built/"/>
     <updated>2013-08-14T09:26:00+08:00</updated>
-    <id>http://qxxqxx.cn/blog/octopress-built</id>
+    <id>http://qxxqxx.github.io/blog/octopress-built</id>
     <content type="html"><![CDATA[<h1>我建这个网站的参考资料，有点乱，自己整理吧</h1>
 
 <blockquote><p>Octopress号称A blogging framework for hackers.   当然要自己折腾一下的，慢慢研究……</p></blockquote>
@@ -384,49 +384,49 @@ rake deploy
   
   <entry>
     <title type="html"><![CDATA[【A4设备iOS 6.1.3不完美越狱教程】]]></title>
-    <link href="http://qxxqxx.cn/blog/a4-tethered-jailbreak/"/>
+    <link href="http://qxxqxx.github.io/blog/a4-tethered-jailbreak/"/>
     <updated>2013-08-12T22:31:00+08:00</updated>
-    <id>http://qxxqxx.cn/blog/a4-tethered-jailbreak</id>
+    <id>http://qxxqxx.github.io/blog/a4-tethered-jailbreak</id>
     <content type="html"><![CDATA[<h1>请尊重作者劳动，随手回复(在最下面)</h1>
 
 <blockquote><h2><br/><li>1.首先下载打开 Redsn0w 0.9.15b3 （点击下载：<a href="http://pan.baidu.com/share/link?shareid=1552762125&amp;uk=34698226">Windows</a>，<a href="http://yun.baidu.com/share/link?shareid=3243471903&amp;uk=34698226&amp;third=0">Mac</a>) 和 A4设备iOS 6.0 的.ipsw固件</h2>
 
 <h2><li>2.点击 Extras</h2>
 
-<p><img src="http://qxxqxx.cn/images/A4-ios6.1.3-jailbreak/1.png" alt="" /></p></blockquote>
+<p><img src="http://qxxqxx.github.io/images/A4-ios6.1.3-jailbreak/1.png" alt="" /></p></blockquote>
 
 <!--more-->
 
 
 <blockquote><h2><li>3.点击 Select IPSW</h2>
 
-<p><img src="http://qxxqxx.cn/images/A4-ios6.1.3-jailbreak/2.png" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/A4-ios6.1.3-jailbreak/2.png" alt="" /></p>
 
 <h2><li>4.选择 对应设备 iOS 6.0 的固件</h2>
 
-<p><img src="http://qxxqxx.cn/images/A4-ios6.1.3-jailbreak/3.png" alt="" />
-<img src="http://qxxqxx.cn/images/A4-ios6.1.3-jailbreak/4.png" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/A4-ios6.1.3-jailbreak/3.png" alt="" />
+<img src="http://qxxqxx.github.io/images/A4-ios6.1.3-jailbreak/4.png" alt="" /></p>
 
 <h2><li>5.点击 Back</h2>
 
-<p><img src="http://qxxqxx.cn/images/A4-ios6.1.3-jailbreak/5.png" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/A4-ios6.1.3-jailbreak/5.png" alt="" /></p>
 
 <h2><li>6.点击 Jailbreak</h2>
 
-<p><img src="http://qxxqxx.cn/images/A4-ios6.1.3-jailbreak/6.png" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/A4-ios6.1.3-jailbreak/6.png" alt="" /></p>
 
 <h2><li>7.等待处理越狱文件</h2>
 
-<p><img src="http://qxxqxx.cn/images/A4-ios6.1.3-jailbreak/7.png" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/A4-ios6.1.3-jailbreak/7.png" alt="" /></p>
 
 <h2><li>8.点击 Next</h2>
 
-<p><img src="http://qxxqxx.cn/images/A4-ios6.1.3-jailbreak/8.png" alt="" /></p></blockquote>
+<p><img src="http://qxxqxx.github.io/images/A4-ios6.1.3-jailbreak/8.png" alt="" /></p></blockquote>
 
 <h2><li>9.进入DFU 模式</h2>
 
-<blockquote><p><img src="http://qxxqxx.cn/images/A4-ios6.1.3-jailbreak/9.png" alt="" />
-<img src="http://qxxqxx.cn/images/A4-ios6.1.3-jailbreak/10.png" alt="" /></p>
+<blockquote><p><img src="http://qxxqxx.github.io/images/A4-ios6.1.3-jailbreak/9.png" alt="" />
+<img src="http://qxxqxx.github.io/images/A4-ios6.1.3-jailbreak/10.png" alt="" /></p>
 
 <h2><li>10.等待越狱完成</h2>
 
@@ -440,25 +440,25 @@ rake deploy
 
 <h2><li>2.点击 Extras</h2>
 
-<p><img src="http://qxxqxx.cn/images/A4-ios6.1.3-jailbreak/1.png" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/A4-ios6.1.3-jailbreak/1.png" alt="" /></p>
 
 <h2><li>3.点击 Select IPSW</h2>
 
-<p><img src="http://qxxqxx.cn/images/A4-ios6.1.3-jailbreak/2.png" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/A4-ios6.1.3-jailbreak/2.png" alt="" /></p>
 
 <h2><li>4.选择 对应设备 iOS 6.0 的固件</h2>
 
-<p><img src="http://qxxqxx.cn/images/A4-ios6.1.3-jailbreak/3.png" alt="" />
-<img src="http://qxxqxx.cn/images/A4-ios6.1.3-jailbreak/4.png" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/A4-ios6.1.3-jailbreak/3.png" alt="" />
+<img src="http://qxxqxx.github.io/images/A4-ios6.1.3-jailbreak/4.png" alt="" /></p>
 
 <h2><li>5.点击 Just Boot</h2>
 
-<p><img src="http://qxxqxx.cn/images/A4-ios6.1.3-jailbreak/5.png" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/A4-ios6.1.3-jailbreak/5.png" alt="" /></p>
 
 <h2><li>6.进入DFU模式</h2>
 
-<p><img src="http://qxxqxx.cn/images/A4-ios6.1.3-jailbreak/9.png" alt="" />
-<img src="http://qxxqxx.cn/images/A4-ios6.1.3-jailbreak/10.png" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/A4-ios6.1.3-jailbreak/9.png" alt="" />
+<img src="http://qxxqxx.github.io/images/A4-ios6.1.3-jailbreak/10.png" alt="" /></p>
 
 <h2><li>7.等待完成，如果手机上出现菠萝，代表引导开机成功，只需等待</h2></blockquote>
 
@@ -470,9 +470,9 @@ rake deploy
   
   <entry>
     <title type="html"><![CDATA[【本站RSS订阅】]]></title>
-    <link href="http://qxxqxx.cn/blog/rss-about/"/>
+    <link href="http://qxxqxx.github.io/blog/rss-about/"/>
     <updated>2013-08-12T19:43:00+08:00</updated>
-    <id>http://qxxqxx.cn/blog/rss-about</id>
+    <id>http://qxxqxx.github.io/blog/rss-about</id>
     <content type="html"><![CDATA[<blockquote><h1><li>本网站RSS订阅地址：</h1>
 
 <h2><br/><li><a href="http://qxxqxx.github.io/rss">http://qxxqxx.github.io/rss</a></h2></blockquote>
@@ -487,73 +487,73 @@ rake deploy
   
   <entry>
     <title type="html"><![CDATA[【iWalk移动电源开箱 高清无码大图】]]></title>
-    <link href="http://qxxqxx.cn/blog/iwalk-battery/"/>
+    <link href="http://qxxqxx.github.io/blog/iwalk-battery/"/>
     <updated>2013-08-10T10:06:00+08:00</updated>
-    <id>http://qxxqxx.cn/blog/iwalk-battery</id>
+    <id>http://qxxqxx.github.io/blog/iwalk-battery</id>
     <content type="html"><![CDATA[<blockquote><h1>在威锋商城买了个iWalk移动电源 Extreme 10000Duo， 开箱，高清无码大图</h1></blockquote>
 
-<p><img src="http://qxxqxx.cn/images/iwalk-battery/1.JPG" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/iwalk-battery/1.JPG" alt="" /></p>
 
 <!--more-->
 
 
-<p><img src="http://qxxqxx.cn/images/iwalk-battery/2.JPG" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/iwalk-battery/2.JPG" alt="" /></p>
 
-<p><img src="http://qxxqxx.cn/images/iwalk-battery/3.JPG" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/iwalk-battery/3.JPG" alt="" /></p>
 
-<p><img src="http://qxxqxx.cn/images/iwalk-battery/4.JPG" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/iwalk-battery/4.JPG" alt="" /></p>
 
-<p><img src="http://qxxqxx.cn/images/iwalk-battery/5.JPG" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/iwalk-battery/5.JPG" alt="" /></p>
 
-<p><img src="http://qxxqxx.cn/images/iwalk-battery/7.JPG" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/iwalk-battery/7.JPG" alt="" /></p>
 
-<p><img src="http://qxxqxx.cn/images/iwalk-battery/8.JPG" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/iwalk-battery/8.JPG" alt="" /></p>
 
 <p>威锋商城送了一条线：</p>
 
-<p><img src="http://qxxqxx.cn/images/iwalk-battery/9.JPG" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/iwalk-battery/9.JPG" alt="" /></p>
 
-<p><img src="http://qxxqxx.cn/images/iwalk-battery/10.JPG" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/iwalk-battery/10.JPG" alt="" /></p>
 
-<p><img src="http://qxxqxx.cn/images/iwalk-battery/11.JPG" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/iwalk-battery/11.JPG" alt="" /></p>
 
-<p><img src="http://qxxqxx.cn/images/iwalk-battery/12.JPG" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/iwalk-battery/12.JPG" alt="" /></p>
 
-<p><img src="http://qxxqxx.cn/images/iwalk-battery/13.JPG" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/iwalk-battery/13.JPG" alt="" /></p>
 
-<p><img src="http://qxxqxx.cn/images/iwalk-battery/14.JPG" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/iwalk-battery/14.JPG" alt="" /></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[【小米气缸耳机 开箱】]]></title>
-    <link href="http://qxxqxx.cn/blog/xiaomi-cylinder/"/>
+    <link href="http://qxxqxx.github.io/blog/xiaomi-cylinder/"/>
     <updated>2013-08-09T19:26:00+08:00</updated>
-    <id>http://qxxqxx.cn/blog/xiaomi-cylinder</id>
+    <id>http://qxxqxx.github.io/blog/xiaomi-cylinder</id>
     <content type="html"><![CDATA[<blockquote><h1>老爸买了个   小米气缸耳机，我来个开箱，看图吧</h1></blockquote>
 
-<p><img src="http://qxxqxx.cn/images/xiaomi-cylinder/1.jpg" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/xiaomi-cylinder/1.jpg" alt="" /></p>
 
 <!--more-->
 
 
-<p><img src="http://qxxqxx.cn/images/xiaomi-cylinder/2.jpg" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/xiaomi-cylinder/2.jpg" alt="" /></p>
 
-<p><img src="http://qxxqxx.cn/images/xiaomi-cylinder/3.jpg" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/xiaomi-cylinder/3.jpg" alt="" /></p>
 
-<p><img src="http://qxxqxx.cn/images/xiaomi-cylinder/4.jpg" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/xiaomi-cylinder/4.jpg" alt="" /></p>
 
-<p><img src="http://qxxqxx.cn/images/xiaomi-cylinder/5.jpg" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/xiaomi-cylinder/5.jpg" alt="" /></p>
 
-<p><img src="http://qxxqxx.cn/images/xiaomi-cylinder/6.jpg" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/xiaomi-cylinder/6.jpg" alt="" /></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[【说明】]]></title>
-    <link href="http://qxxqxx.cn/blog/explain/"/>
+    <link href="http://qxxqxx.github.io/blog/explain/"/>
     <updated>2013-08-09T19:16:00+08:00</updated>
-    <id>http://qxxqxx.cn/blog/explain</id>
+    <id>http://qxxqxx.github.io/blog/explain</id>
     <content type="html"><![CDATA[<h1>在这里说明一下：</h1>
 
 <h1>我已经把我之前在weiphone写的【3篇教程和1篇帖子】搬到了我的Blog</h1>
@@ -568,9 +568,9 @@ rake deploy
   
   <entry>
     <title type="html"><![CDATA[【第一篇Octopress Blog】]]></title>
-    <link href="http://qxxqxx.cn/blog/first-octopress-blog/"/>
+    <link href="http://qxxqxx.github.io/blog/first-octopress-blog/"/>
     <updated>2013-08-09T16:01:00+08:00</updated>
-    <id>http://qxxqxx.cn/blog/first-octopress-blog</id>
+    <id>http://qxxqxx.github.io/blog/first-octopress-blog</id>
     <content type="html"><![CDATA[<h1>第一次用octopress搭Blog</h1>
 
 <h1><br/>总的来说比较顺利……就是Ruby搞了一天而已，其他的都是想咋就咋了，哈哈哈</h1>
@@ -583,9 +583,9 @@ rake deploy
   
   <entry>
     <title type="html"><![CDATA[【UnthreadedJB iPhone4 iOS4.3.5 完美越狱】]]></title>
-    <link href="http://qxxqxx.cn/blog/unthreadedjb-iphone4-ios4-3-5-prove/"/>
+    <link href="http://qxxqxx.github.io/blog/unthreadedjb-iphone4-ios4-3-5-prove/"/>
     <updated>2013-07-30T22:34:00+08:00</updated>
-    <id>http://qxxqxx.cn/blog/unthreadedjb-iphone4-ios4-3-5-prove</id>
+    <id>http://qxxqxx.github.io/blog/unthreadedjb-iphone4-ios4-3-5-prove</id>
     <content type="html"><![CDATA[<h1>亲测：UnthreadedJB iPhone4 iOS4.3.5 完美越狱</h1>
 
 <h2>视频：</h2>
@@ -597,9 +597,9 @@ rake deploy
   
   <entry>
     <title type="html"><![CDATA[【在电脑上，ios设备上制作.deb插件汉化包】]]></title>
-    <link href="http://qxxqxx.cn/blog/deb-cn/"/>
+    <link href="http://qxxqxx.github.io/blog/deb-cn/"/>
     <updated>2013-07-22T14:55:00+08:00</updated>
-    <id>http://qxxqxx.cn/blog/deb-cn</id>
+    <id>http://qxxqxx.github.io/blog/deb-cn</id>
     <content type="html"><![CDATA[<blockquote><h1>请尊重作者劳动，随手回复(在最下面)</h1>
 
 <h3>1.如何汉化插件？   请看我的第 1 篇教程：  <a href="http://qxxqxx.github.io/blog/hanhua/">http://qxxqxx.github.io/blog/hanhua/</a></h3>
@@ -614,10 +614,10 @@ rake deploy
 
 <h2>ios上：   必须 越狱 且安装 MobileTerminal</h2>
 
-<p><img src="http://qxxqxx.cn/images/deb-CN/1.png" alt="" />
-<img src="http://qxxqxx.cn/images/deb-CN/2.png" alt="" /></p></blockquote>
+<p><img src="http://qxxqxx.github.io/images/deb-CN/1.png" alt="" />
+<img src="http://qxxqxx.github.io/images/deb-CN/2.png" alt="" /></p></blockquote>
 
-<h2>.strings文件模板：<a href="http://qxxqxx.cn/images/deb-CN/%E6%A8%A1%E6%9D%BF.strings.zip">点击下载</a></h2>
+<h2>.strings文件模板：<a href="http://qxxqxx.github.io/images/deb-CN/%E6%A8%A1%E6%9D%BF.strings.zip">点击下载</a></h2>
 
 <pre><code>&lt;?xml version="1.0" encoding="UTF-8"?&gt;
 &lt;!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"&gt;
@@ -644,30 +644,30 @@ rake deploy
 
 <h3>现在我正在制作 DietBulletin汉化包 ，汉化.strings 需要放到 /Library/PreferenceLoader/Preferences/zh_CN.lproj 里。。看图</h3>
 
-<p><img src="http://qxxqxx.cn/images/deb-CN/3.png" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/deb-CN/3.png" alt="" /></p>
 
 <h2>2.创建DEBIAN文件夹（在此deb文件夹的根目录）并在里面创建 control 文件</h2>
 
 <h3>（看我的第二篇教程：<a href="http://qxxqxx.github.io/blog/ubuntu-deb/">http://qxxqxx.github.io/blog/ubuntu-deb/</a>）</h3>
 
-<p><img src="http://qxxqxx.cn/images/deb-CN/4.png" alt="" /><br/>
-<img src="http://qxxqxx.cn/images/deb-CN/5.png" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/deb-CN/4.png" alt="" /><br/>
+<img src="http://qxxqxx.github.io/images/deb-CN/5.png" alt="" /></p>
 
 <h2>3. 打开终端，获取su权限</h2>
 
-<p><img src="http://qxxqxx.cn/images/deb-CN/6.png" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/deb-CN/6.png" alt="" /></p>
 
 <h2>4. 输入命令 看图</h2>
 
-<p><img src="http://qxxqxx.cn/images/deb-CN/7.png" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/deb-CN/7.png" alt="" /></p>
 
 <h2>回车</h2>
 
-<p><img src="http://qxxqxx.cn/images/deb-CN/8.png" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/deb-CN/8.png" alt="" /></p>
 
 <h2>至此一个deb汉化包已完成，放到ifile安装就行了。</h2>
 
-<p><img src="http://qxxqxx.cn/images/deb-CN/9.png" alt="" /></p></blockquote>
+<p><img src="http://qxxqxx.github.io/images/deb-CN/9.png" alt="" /></p></blockquote>
 
 <p>====================================================================================================</p>
 
@@ -675,19 +675,19 @@ rake deploy
 
 <blockquote><h2>1.把你刚刚的创建的文件夹放到：/var/mobile 里</h2>
 
-<p><img src="http://qxxqxx.cn/images/deb-CN/10.png" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/deb-CN/10.png" alt="" /></p>
 
 <h2>2.打开MobileTerminal，获取su权限</h2>
 
-<p><img src="http://qxxqxx.cn/images/deb-CN/11.png" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/deb-CN/11.png" alt="" /></p>
 
 <h2>3. 输入命令，回车。。看图 （跟电脑上一样的）</h2>
 
-<p><img src="http://qxxqxx.cn/images/deb-CN/12.png" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/deb-CN/12.png" alt="" /></p>
 
 <h2>4.ifile：deb包已经生成</h2>
 
-<p><img src="http://qxxqxx.cn/images/deb-CN/13.png" alt="" /></p></blockquote>
+<p><img src="http://qxxqxx.github.io/images/deb-CN/13.png" alt="" /></p></blockquote>
 
 <p>====================================================================================================</p>
 
@@ -697,9 +697,9 @@ rake deploy
   
   <entry>
     <title type="html"><![CDATA[【ubuntu上制作.deb详细图文教程】]]></title>
-    <link href="http://qxxqxx.cn/blog/ubuntu-deb/"/>
+    <link href="http://qxxqxx.github.io/blog/ubuntu-deb/"/>
     <updated>2013-05-31T23:20:00+08:00</updated>
-    <id>http://qxxqxx.cn/blog/ubuntu-deb</id>
+    <id>http://qxxqxx.github.io/blog/ubuntu-deb</id>
     <content type="html"><![CDATA[<blockquote><h3>这是我写的第二篇教程&mdash;&mdash;&mdash;&mdash;ubuntu上制作deb</h3>
 
 <h1>请尊重作者劳动，随手回复(在最下面)</h1>
@@ -761,13 +761,13 @@ rake deploy
 
 <h3>Ubuntu 13.04    下载地址：<a href="http://www.ubuntu.com/download/desktop/zh-CN">http://www.ubuntu.com/download/desktop/zh-CN</a></h3>
 
-<p><img src="http://qxxqxx.cn/images/ubuntu-deb/1.png" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/ubuntu-deb/1.png" alt="" /></p>
 
 <h3>建议直接在电脑上安装，不要用虚拟机</h3>
 
 <h2>认识dpkg-deb命令（查看大图）</h2>
 
-<p><img src="http://qxxqxx.cn/images/ubuntu-deb/2.png" alt="" /></p></blockquote>
+<p><img src="http://qxxqxx.github.io/images/ubuntu-deb/2.png" alt="" /></p></blockquote>
 
 <h2>control模板：</h2>
 
@@ -787,15 +787,15 @@ Author: qxxqxx &lt;&gt;
 
 <blockquote><h2>1. Alt+crtl+t 打开终端</h2>
 
-<p><img src="http://qxxqxx.cn/images/ubuntu-deb/3.png" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/ubuntu-deb/3.png" alt="" /></p>
 
 <h2>2.   首先要有一个deb  这里的是weiphone源图标 方便演示放到桌面</h2>
 
-<p><img src="http://qxxqxx.cn/images/ubuntu-deb/4.png" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/ubuntu-deb/4.png" alt="" /></p>
 
 <h2>3. 在终端 用ls  和  cd  命令定位到桌面和查看桌面的文件</h2>
 
-<p><img src="http://qxxqxx.cn/images/ubuntu-deb/5.png" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/ubuntu-deb/5.png" alt="" /></p>
 
 <h2>4. 解包.deb</h2>
 
@@ -805,19 +805,19 @@ Author: qxxqxx &lt;&gt;
 
 <h2>输入第一条命令</h2>
 
-<p><img src="http://qxxqxx.cn/images/ubuntu-deb/6.png" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/ubuntu-deb/6.png" alt="" /></p>
 
 <h2>回车后，在1 文件夹里，就是deb的主文件了</h2>
 
-<p><img src="http://qxxqxx.cn/images/ubuntu-deb/7.png" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/ubuntu-deb/7.png" alt="" /></p>
 
 <h2>输入第二条命令</h2>
 
-<p><img src="http://qxxqxx.cn/images/ubuntu-deb/8.png" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/ubuntu-deb/8.png" alt="" /></p>
 
 <h2>回车后，在1 文件夹里，就是deb的DEBIAN文件夹</h2>
 
-<p><img src="http://qxxqxx.cn/images/ubuntu-deb/9.png" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/ubuntu-deb/9.png" alt="" /></p>
 
 <h2>至此。一个deb就被完全解包了。。</h2></blockquote>
 
@@ -837,29 +837,29 @@ Author: qxxqxx &lt;&gt;
 
 <h2>1.首先，新建一个文件夹</h2>
 
-<p><img src="http://qxxqxx.cn/images/ubuntu-deb/10.png" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/ubuntu-deb/10.png" alt="" /></p>
 
 <h2>2. 要把某文件复制到 /var/mobile ，so新建一个对应路径的文件夹</h2>
 
-<p><img src="http://qxxqxx.cn/images/ubuntu-deb/11.png" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/ubuntu-deb/11.png" alt="" /></p>
 
 <h2>3. 把要复制的设备的文件放到文件夹里</h2>
 
-<p><img src="http://qxxqxx.cn/images/ubuntu-deb/12.png" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/ubuntu-deb/12.png" alt="" /></p>
 
 <h2>4. 回到根目录，新建一个DEBIAN文件夹，注意大小写</h2>
 
-<p><img src="http://qxxqxx.cn/images/ubuntu-deb/13.png" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/ubuntu-deb/13.png" alt="" /></p>
 
 <h2>5.在DEBIAN里新建一个文本文档，名为control</h2>
 
-<p><img src="http://qxxqxx.cn/images/ubuntu-deb/14.png" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/ubuntu-deb/14.png" alt="" /></p>
 
 <h3>编辑control，下面的编码选 pkg-config     （control文件最后一行必须至少有一个换行的空行）</h3>
 
 <h3>control文件必须是UTF-8，Unix编码，Unix/Linux换行符（LF），不符合规范的control会导致Cydia无法打开。</h3>
 
-<p><img src="http://qxxqxx.cn/images/ubuntu-deb/15.png" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/ubuntu-deb/15.png" alt="" /></p>
 
 <h2>6. 回到桌面，打开终端，开始打包</h2>
 
@@ -869,11 +869,11 @@ Author: qxxqxx &lt;&gt;
 
 <h2>输入命令</h2>
 
-<p><img src="http://qxxqxx.cn/images/ubuntu-deb/16.png" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/ubuntu-deb/16.png" alt="" /></p>
 
 <h2>完成后</h2>
 
-<p><img src="http://qxxqxx.cn/images/ubuntu-deb/17.png" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/ubuntu-deb/17.png" alt="" /></p>
 
 <h2>大家可以安装到机子里看看</h2></blockquote>
 
@@ -889,9 +889,9 @@ Author: qxxqxx &lt;&gt;
   
   <entry>
     <title type="html"><![CDATA[【插件汉化教程 两种方法图文视频详细教程】]]></title>
-    <link href="http://qxxqxx.cn/blog/hanhua/"/>
+    <link href="http://qxxqxx.github.io/blog/hanhua/"/>
     <updated>2013-03-02T09:57:00+08:00</updated>
-    <id>http://qxxqxx.cn/blog/hanhua</id>
+    <id>http://qxxqxx.github.io/blog/hanhua</id>
     <content type="html"><![CDATA[<blockquote><h3><li>转载请标明出处：<a href="http://qxxqxx.github.io/blog/hanhua/">http://qxxqxx.github.io/blog/hanhua/</a></h3>
 
 <h3><li>请大家支持正版，使用正版软件，插件</h3>
@@ -947,7 +947,7 @@ Author: qxxqxx &lt;&gt;
 
 <h1>一般所有的插件都能在其中一个目录里进行汉化 ，大家可以像我一样在iFile创建一个收藏夹…</h1>
 
-<p><img src="http://qxxqxx.cn/images/HanHua/1.png" alt="" /></p></blockquote>
+<p><img src="http://qxxqxx.github.io/images/HanHua/1.png" alt="" /></p></blockquote>
 
 <p>====================================================================================================</p>
 
@@ -959,33 +959,33 @@ Author: qxxqxx &lt;&gt;
 
 <h2>1. 首先看到的界面当然是英文的</h2>
 
-<p><img src="http://qxxqxx.cn/images/HanHua/2.png" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/HanHua/2.png" alt="" /></p>
 
 <h2>2. 然后打开iFile，定位到//Library/PreferenceLoader/Preferences （就是上面给出的目录）</h2>
 
-<p><img src="http://qxxqxx.cn/images/HanHua/3.png" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/HanHua/3.png" alt="" /></p>
 
 <h2>3. 找到Zephyr.plist</h2>
 
-<p><img src="http://qxxqxx.cn/images/HanHua/4.png" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/HanHua/4.png" alt="" /></p>
 
 <h2>4. 点击，选择使用文本编辑器打开</h2>
 
-<p><img src="http://qxxqxx.cn/images/HanHua/5.png" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/HanHua/5.png" alt="" /></p>
 
 <h2>5. 然后我们先汉化第一个 文本 ：Enabled</h2>
 
 <h3>点击搜索，输入Enabled</h3>
 
-<p><img src="http://qxxqxx.cn/images/HanHua/6.png" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/HanHua/6.png" alt="" /></p>
 
 <h2>6. 然后选择这个单词 注意：旁边的标点别乱删</h2>
 
-<p><img src="http://qxxqxx.cn/images/HanHua/7.png" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/HanHua/7.png" alt="" /></p>
 
 <h2>7. 改成 开关</h2>
 
-<p><img src="http://qxxqxx.cn/images/HanHua/8.png" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/HanHua/8.png" alt="" /></p>
 
 <h2>8. 保存</h2>
 
@@ -993,7 +993,7 @@ Author: qxxqxx &lt;&gt;
 
 <h2>10.回到设置里一看</h2>
 
-<p><img src="http://qxxqxx.cn/images/HanHua/9.png" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/HanHua/9.png" alt="" /></p>
 
 <h1>Finally   成功了!!!!!!</h1>
 
@@ -1017,11 +1017,11 @@ Author: qxxqxx &lt;&gt;
 
 <blockquote><h3><li>废话不多说，还是以Zephyr为例……</h3>
 
-<p><img src="http://qxxqxx.cn/images/HanHua/10.png" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/HanHua/10.png" alt="" /></p>
 
 <h2>1. 打开iFile，定位到//Library/PreferenceLoader/Preferences （就是上面给出的目录）</h2>
 
-<p><img src="http://qxxqxx.cn/images/HanHua/11.png" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/HanHua/11.png" alt="" /></p>
 
 <h2>2. 在此目录创建语言包</h2>
 
@@ -1029,7 +1029,7 @@ Author: qxxqxx &lt;&gt;
 
 <h4>繁体：zh_TW.lproj</h4>
 
-<p><img src="http://qxxqxx.cn/images/HanHua/12.png" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/HanHua/12.png" alt="" /></p>
 
 <h2>3. 找到Zephyr.plist</h2>
 
@@ -1037,30 +1037,30 @@ Author: qxxqxx &lt;&gt;
 
 <h2>一定要 选 常规文件</h2>
 
-<p><img src="http://qxxqxx.cn/images/HanHua/13.png" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/HanHua/13.png" alt="" /></p>
 
 <h2>5. 点击这个strings</h2>
 
 <h2>选择属性表编辑器，打开是空白的</h2>
 
-<p><img src="http://qxxqxx.cn/images/HanHua/14.png" alt="" />
-<img src="http://qxxqxx.cn/images/HanHua/15.png" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/HanHua/14.png" alt="" />
+<img src="http://qxxqxx.github.io/images/HanHua/15.png" alt="" /></p>
 
 <h2>6. 点击+</h2>
 
 <h2>直接输入你在设置里看到的文字，注意大小写</h2>
 
-<p><img src="http://qxxqxx.cn/images/HanHua/16.png" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/HanHua/16.png" alt="" /></p>
 
 <h2>7. 然后按 完成</h2>
 
 <h2>8. 然后再按你创建的属性表</h2>
 
-<p><img src="http://qxxqxx.cn/images/HanHua/17.png" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/HanHua/17.png" alt="" /></p>
 
 <h2>9. 输入你想汉化的内容</h2>
 
-<p><img src="http://qxxqxx.cn/images/HanHua/18.png" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/HanHua/18.png" alt="" /></p>
 
 <h2>10.杀掉设置后台</h2>
 
@@ -1068,11 +1068,11 @@ Author: qxxqxx &lt;&gt;
 
 <h1>全面汉化效果:</h1>
 
-<p><img src="http://qxxqxx.cn/images/HanHua/19.png" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/HanHua/19.png" alt="" /></p>
 
 <h2>Zephyr 的 strings 全部:   (按一下看原图)</h2>
 
-<p><img src="http://qxxqxx.cn/images/HanHua/20.jpg" alt="" /></p>
+<p><img src="http://qxxqxx.github.io/images/HanHua/20.jpg" alt="" /></p>
 
 <h1>还是推荐这种方法!!!!</h1>
 

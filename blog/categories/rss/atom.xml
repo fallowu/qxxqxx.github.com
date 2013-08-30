@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: RSS | 我系蚯蚓啊's Blog]]></title>
-  <link href="http://qxxqxx.cn/blog/categories/rss/atom.xml" rel="self"/>
-  <link href="http://qxxqxx.cn/"/>
-  <updated>2013-08-30T11:28:44+08:00</updated>
-  <id>http://qxxqxx.cn/</id>
+  <link href="http://qxxqxx.github.io/blog/categories/rss/atom.xml" rel="self"/>
+  <link href="http://qxxqxx.github.io/"/>
+  <updated>2013-08-30T11:45:53+08:00</updated>
+  <id>http://qxxqxx.github.io/</id>
   <author>
     <name><![CDATA[邱星翔]]></name>
     <email><![CDATA[694747680@qq.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[【本站RSS订阅】]]></title>
-    <link href="http://qxxqxx.cn/blog/rss-about/"/>
+    <link href="http://qxxqxx.github.io/blog/rss-about/"/>
     <updated>2013-08-12T19:43:00+08:00</updated>
-    <id>http://qxxqxx.cn/blog/rss-about</id>
+    <id>http://qxxqxx.github.io/blog/rss-about</id>
     <content type="html"><![CDATA[<blockquote><h1><li>本网站RSS订阅地址：</h1>
 
 <h2><br/><li><a href="http://qxxqxx.github.io/rss">http://qxxqxx.github.io/rss</a></h2></blockquote>
