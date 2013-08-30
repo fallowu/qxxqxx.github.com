@@ -9,7 +9,7 @@ keywords: 制作插件,汉化,seb包,seb,汉化插件,汉化补丁,教程,汉化
 ---
 >###这是我写的第二篇教程--------ubuntu上制作deb
 >#请尊重作者劳动，随手回复(在最下面)
->###如何汉化插件？   请看我的第一篇教程：  <http://qxxqxx.github.io/blog/hanhua/>
+>###如何汉化插件？   请看我的第一篇教程：  <http://qxxqxx.com/blog/hanhua/>
 
 ====================================================================================================
 
@@ -19,9 +19,9 @@ keywords: 制作插件,汉化,seb包,seb,汉化插件,汉化补丁,教程,汉化
 
 >>##6月1日      更新打包deb  例子1
 
->>##6月1日    deb制作教程:   <http://qxxqxx.github.io/blog/ubuntu-deb/>
+>>##6月1日    deb制作教程:   <http://qxxqxx.com/blog/ubuntu-deb/>
 
->>##7月22日  更新插件汉化包在ios上的制作方法 ：<http://qxxqxx.github.io/blog/deb-cn/>
+>>##7月22日  更新插件汉化包在ios上的制作方法 ：<http://qxxqxx.com/blog/deb-cn/>
 
 
 <!--more-->
@@ -144,7 +144,7 @@ keywords: 制作插件,汉化,seb包,seb,汉化插件,汉化补丁,教程,汉化
 #例子2   制作插件汉化补丁
 
 
-##已开新贴：<http://qxxqxx.github.io/blog/deb-cn/>                                                                       
+##已开新贴：<http://qxxqxx.com/blog/deb-cn/>                                                                       
 
 ====================================================================================================
 #**大家有什么不懂的去 新浪微博 [@我系蚯蚓啊](http://weibo.com/qzoro)找我，尽量为大家解答吧！！(求粉)**

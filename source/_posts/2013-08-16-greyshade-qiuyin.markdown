@@ -9,7 +9,7 @@ categories: Octopress 教程
 
 Greyshade 是 Shashank Mehta 开发的一款 Octopress 的主题，非常多人使用，侧栏的社交网站链接部分支持很多国外社交网站，但不支持新浪微博,Instagram和Dribbble，So 我增加了这三个网站的支持。
 
-只是修改了 `sass/parts/_header.scss` 和 `source/_includes/header.html`，增加了微博,Instagram和Dribbble 的 Icon（自己Photoshop），链接：[https://github.com/qxxqxx/Greyshade](https://github.com/qxxqxx/Greyshade)
+只是修改了 `sass/parts/_header.scss` 和 `source/_includes/header.html`，增加了微博,Instagram和Dribbble 的 Icon（自己Photoshop），链接：<https://github.com/qxxqxx/Greyshade>
 
 
 或者直接用以下命令安装主题

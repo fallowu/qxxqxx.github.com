@@ -7,7 +7,7 @@ categories: 教程 越狱 插件 视频 tweak
 description: "【插件汉化教程 两种方法图文视频详细教程】" 
 keywords: 制作插件,汉化,seb包,seb,汉化插件,汉化补丁,教程,汉化插件教程
 ---
->###	<li>转载请标明出处：<http://qxxqxx.github.io/blog/hanhua/>
+>###	<li>转载请标明出处：<http://qxxqxx.com/blog/hanhua/>
 
 >###	<li>请大家支持正版，使用正版软件，插件 
 >###	<li>帖子： <http://bbs.weiphone.com/read-htm-tid-5881851-page-1.html>
@@ -26,8 +26,8 @@ keywords: 制作插件,汉化,seb包,seb,汉化插件,汉化补丁,教程,汉化
 >>##3月23日  重新录制详细有声版教程（以发布在帖子中） + Springtomize 2完美汉化包（在方法二下方）
 >>##4月5日   排版，修改一些细节
 >>##4月12日  送上本人照片流
->>##6月1日   deb制作教程：<http://qxxqxx.github.io/blog/ubuntu-deb/>
->>##7月22日  更新插件汉化包在ios上的制作方法 ：<http://qxxqxx.github.io/blog/deb-cn/>
+>>##6月1日   deb制作教程：<http://qxxqxx.com/blog/ubuntu-deb/>
+>>##7月22日  更新插件汉化包在ios上的制作方法 ：<http://qxxqxx.com/blog/deb-cn/>
 <!--more-->
 ====================================================================================================
 

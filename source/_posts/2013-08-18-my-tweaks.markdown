@@ -8,7 +8,7 @@ categories: 插件 tweak 视频
 ##……无聊试试用Motion做视频……
 <iframe height=498 width=510 src="http://player.youku.com/embed/XNTk3Njk5NDA4" frameborder=0 allowfullscreen></iframe>
 
-##（[插件列表](http://qxxqxx.github.io/blog/my-tweaks/)）
+##（[插件列表](http://qxxqxx.com/blog/my-tweaks/)）
 <!--more-->
 #Action Menu
 输入增强
