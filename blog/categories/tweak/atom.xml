@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: tweak | 我系蚯蚓啊's Blog]]></title>
-  <link href="http://qxxqxx.github.io/blog/categories/tweak/atom.xml" rel="self"/>
-  <link href="http://qxxqxx.github.io/"/>
-  <updated>2013-08-29T09:35:08+08:00</updated>
-  <id>http://qxxqxx.github.io/</id>
+  <link href="http://qxxqxx.cn/blog/categories/tweak/atom.xml" rel="self"/>
+  <link href="http://qxxqxx.cn/"/>
+  <updated>2013-08-30T11:28:44+08:00</updated>
+  <id>http://qxxqxx.cn/</id>
   <author>
     <name><![CDATA[邱星翔]]></name>
     <email><![CDATA[694747680@qq.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[【我装的所有插件----47个(视频)】]]></title>
-    <link href="http://qxxqxx.github.io/blog/my-tweaks/"/>
+    <link href="http://qxxqxx.cn/blog/my-tweaks/"/>
     <updated>2013-08-18T19:37:00+08:00</updated>
-    <id>http://qxxqxx.github.io/blog/my-tweaks</id>
+    <id>http://qxxqxx.cn/blog/my-tweaks</id>
     <content type="html"><![CDATA[<h2>……无聊试试用Motion做视频……</h2>
 
 <iframe height=498 width=510 src="http://player.youku.com/embed/XNTk3Njk5NDA4" frameborder=0 allowfullscreen></iframe>
@@ -220,9 +220,9 @@
   
   <entry>
     <title type="html"><![CDATA[【在电脑上，ios设备上制作.deb插件汉化包】]]></title>
-    <link href="http://qxxqxx.github.io/blog/deb-cn/"/>
+    <link href="http://qxxqxx.cn/blog/deb-cn/"/>
     <updated>2013-07-22T14:55:00+08:00</updated>
-    <id>http://qxxqxx.github.io/blog/deb-cn</id>
+    <id>http://qxxqxx.cn/blog/deb-cn</id>
     <content type="html"><![CDATA[<blockquote><h1>请尊重作者劳动，随手回复(在最下面)</h1>
 
 <h3>1.如何汉化插件？   请看我的第 1 篇教程：  <a href="http://qxxqxx.github.io/blog/hanhua/">http://qxxqxx.github.io/blog/hanhua/</a></h3>
@@ -320,9 +320,9 @@
   
   <entry>
     <title type="html"><![CDATA[【ubuntu上制作.deb详细图文教程】]]></title>
-    <link href="http://qxxqxx.github.io/blog/ubuntu-deb/"/>
+    <link href="http://qxxqxx.cn/blog/ubuntu-deb/"/>
     <updated>2013-05-31T23:20:00+08:00</updated>
-    <id>http://qxxqxx.github.io/blog/ubuntu-deb</id>
+    <id>http://qxxqxx.cn/blog/ubuntu-deb</id>
     <content type="html"><![CDATA[<blockquote><h3>这是我写的第二篇教程&mdash;&mdash;&mdash;&mdash;ubuntu上制作deb</h3>
 
 <h1>请尊重作者劳动，随手回复(在最下面)</h1>
@@ -512,9 +512,9 @@ Author: qxxqxx &lt;&gt;
   
   <entry>
     <title type="html"><![CDATA[【插件汉化教程 两种方法图文视频详细教程】]]></title>
-    <link href="http://qxxqxx.github.io/blog/hanhua/"/>
+    <link href="http://qxxqxx.cn/blog/hanhua/"/>
     <updated>2013-03-02T09:57:00+08:00</updated>
-    <id>http://qxxqxx.github.io/blog/hanhua</id>
+    <id>http://qxxqxx.cn/blog/hanhua</id>
     <content type="html"><![CDATA[<blockquote><h3><li>转载请标明出处：<a href="http://qxxqxx.github.io/blog/hanhua/">http://qxxqxx.github.io/blog/hanhua/</a></h3>
 
 <h3><li>请大家支持正版，使用正版软件，插件</h3>
