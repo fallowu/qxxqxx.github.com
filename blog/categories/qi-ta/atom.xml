@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: 其他 | 我系蚯蚓啊's Blog]]></title>
-  <link href="http://qxxqxx.github.io/blog/categories/qi-ta/atom.xml" rel="self"/>
-  <link href="http://qxxqxx.github.io/"/>
-  <updated>2013-08-30T11:45:53+08:00</updated>
-  <id>http://qxxqxx.github.io/</id>
+  <link href="http://qxxqxx.com/blog/categories/qi-ta/atom.xml" rel="self"/>
+  <link href="http://qxxqxx.com/"/>
+  <updated>2013-08-30T12:00:39+08:00</updated>
+  <id>http://qxxqxx.com/</id>
   <author>
     <name><![CDATA[邱星翔]]></name>
     <email><![CDATA[694747680@qq.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[【本站RSS订阅】]]></title>
-    <link href="http://qxxqxx.github.io/blog/rss-about/"/>
+    <link href="http://qxxqxx.com/blog/rss-about/"/>
     <updated>2013-08-12T19:43:00+08:00</updated>
-    <id>http://qxxqxx.github.io/blog/rss-about</id>
+    <id>http://qxxqxx.com/blog/rss-about</id>
     <content type="html"><![CDATA[<blockquote><h1><li>本网站RSS订阅地址：</h1>
 
 <h2><br/><li><a href="http://qxxqxx.github.io/rss">http://qxxqxx.github.io/rss</a></h2></blockquote>
@@ -32,9 +32,9 @@
   
   <entry>
     <title type="html"><![CDATA[【说明】]]></title>
-    <link href="http://qxxqxx.github.io/blog/explain/"/>
+    <link href="http://qxxqxx.com/blog/explain/"/>
     <updated>2013-08-09T19:16:00+08:00</updated>
-    <id>http://qxxqxx.github.io/blog/explain</id>
+    <id>http://qxxqxx.com/blog/explain</id>
     <content type="html"><![CDATA[<h1>在这里说明一下：</h1>
 
 <h1>我已经把我之前在weiphone写的【3篇教程和1篇帖子】搬到了我的Blog</h1>
@@ -49,9 +49,9 @@
   
   <entry>
     <title type="html"><![CDATA[【第一篇Octopress Blog】]]></title>
-    <link href="http://qxxqxx.github.io/blog/first-octopress-blog/"/>
+    <link href="http://qxxqxx.com/blog/first-octopress-blog/"/>
     <updated>2013-08-09T16:01:00+08:00</updated>
-    <id>http://qxxqxx.github.io/blog/first-octopress-blog</id>
+    <id>http://qxxqxx.com/blog/first-octopress-blog</id>
     <content type="html"><![CDATA[<h1>第一次用octopress搭Blog</h1>
 
 <h1><br/>总的来说比较顺利……就是Ruby搞了一天而已，其他的都是想咋就咋了，哈哈哈</h1>

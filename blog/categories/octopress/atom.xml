@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Octopress | 我系蚯蚓啊's Blog]]></title>
-  <link href="http://qxxqxx.github.io/blog/categories/octopress/atom.xml" rel="self"/>
-  <link href="http://qxxqxx.github.io/"/>
-  <updated>2013-08-30T11:45:53+08:00</updated>
-  <id>http://qxxqxx.github.io/</id>
+  <link href="http://qxxqxx.com/blog/categories/octopress/atom.xml" rel="self"/>
+  <link href="http://qxxqxx.com/"/>
+  <updated>2013-08-30T12:00:39+08:00</updated>
+  <id>http://qxxqxx.com/</id>
   <author>
     <name><![CDATA[邱星翔]]></name>
     <email><![CDATA[694747680@qq.com]]></email>
@@ -15,14 +15,14 @@
   
   <entry>
     <title type="html"><![CDATA[【Octopress的Webclip（iOS主屏幕书签）增加图标】]]></title>
-    <link href="http://qxxqxx.github.io/blog/octopress-webclip/"/>
+    <link href="http://qxxqxx.com/blog/octopress-webclip/"/>
     <updated>2013-08-19T17:16:00+08:00</updated>
-    <id>http://qxxqxx.github.io/blog/octopress-webclip</id>
+    <id>http://qxxqxx.com/blog/octopress-webclip</id>
     <content type="html"><![CDATA[<h2>1.首先，修改<code>/source/_includes/head.html</code></h2>
 
 <h2>增加</h2>
 
-<pre><code>&lt;link rel="apple-touch-icon" href="http://qxxqxx.github.io/images/apple-touch-icon.png"&gt;
+<pre><code>&lt;link rel="apple-touch-icon" href="http://qxxqxx.com/images/apple-touch-icon.png"&gt;
 </code></pre>
 
 <h2>2.然后把你的图标做成 <code>114*114</code> ，放到<code>/source/images/</code></h2>
@@ -48,9 +48,9 @@ rake deploy
   
   <entry>
     <title type="html"><![CDATA[【为Octopress的Greyshade主题增加新浪微博,Instagram和Dribbble】]]></title>
-    <link href="http://qxxqxx.github.io/blog/greyshade-qiuyin/"/>
+    <link href="http://qxxqxx.com/blog/greyshade-qiuyin/"/>
     <updated>2013-08-16T11:47:00+08:00</updated>
-    <id>http://qxxqxx.github.io/blog/greyshade-qiuyin</id>
+    <id>http://qxxqxx.com/blog/greyshade-qiuyin</id>
     <content type="html"><![CDATA[<p>Greyshade 是 Shashank Mehta 开发的一款 Octopress 的主题，非常多人使用，侧栏的社交网站链接部分支持很多国外社交网站，但不支持新浪微博,Instagram和Dribbble，So 我增加了这三个网站的支持。</p>
 
 <p>只是修改了 <code>sass/parts/_header.scss</code> 和 <code>source/_includes/header.html</code>，增加了微博,Instagram和Dribbble 的 Icon（自己Photoshop），链接：<a href="https://github.com/qxxqxx/Greyshade">https://github.com/qxxqxx/Greyshade</a></p>
@@ -81,9 +81,9 @@ rake deploy
   
   <entry>
     <title type="html"><![CDATA[【Octopress建站-参考资料】]]></title>
-    <link href="http://qxxqxx.github.io/blog/octopress-built/"/>
+    <link href="http://qxxqxx.com/blog/octopress-built/"/>
     <updated>2013-08-14T09:26:00+08:00</updated>
-    <id>http://qxxqxx.github.io/blog/octopress-built</id>
+    <id>http://qxxqxx.com/blog/octopress-built</id>
     <content type="html"><![CDATA[<h1>我建这个网站的参考资料，有点乱，自己整理吧</h1>
 
 <blockquote><p>Octopress号称A blogging framework for hackers.   当然要自己折腾一下的，慢慢研究……</p></blockquote>
