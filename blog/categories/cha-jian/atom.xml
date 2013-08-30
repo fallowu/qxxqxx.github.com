@@ -4,7 +4,7 @@
   <title><![CDATA[Category: 插件 | 我系蚯蚓啊's Blog]]></title>
   <link href="http://qxxqxx.com/blog/categories/cha-jian/atom.xml" rel="self"/>
   <link href="http://qxxqxx.com/"/>
-  <updated>2013-08-30T12:00:39+08:00</updated>
+  <updated>2013-08-30T13:38:02+08:00</updated>
   <id>http://qxxqxx.com/</id>
   <author>
     <name><![CDATA[邱星翔]]></name>
@@ -23,7 +23,7 @@
 <iframe height=498 width=510 src="http://player.youku.com/embed/XNTk3Njk5NDA4" frameborder=0 allowfullscreen></iframe>
 
 
-<h2>（<a href="http://qxxqxx.github.io/blog/my-tweaks/">插件列表</a>）</h2>
+<h2>（<a href="http://qxxqxx.com/blog/my-tweaks/">插件列表</a>）</h2>
 
 <!--more-->
 
@@ -225,9 +225,9 @@
     <id>http://qxxqxx.com/blog/deb-cn</id>
     <content type="html"><![CDATA[<blockquote><h1>请尊重作者劳动，随手回复(在最下面)</h1>
 
-<h3>1.如何汉化插件？   请看我的第 1 篇教程：  <a href="http://qxxqxx.github.io/blog/hanhua/">http://qxxqxx.github.io/blog/hanhua/</a></h3>
+<h3>1.如何汉化插件？   请看我的第 1 篇教程：  <a href="http://qxxqxx.com/blog/hanhua/">http://qxxqxx.com/blog/hanhua/</a></h3>
 
-<h3>2.认识什么是.deb  请看我的第 2 篇教程：<a href="http://qxxqxx.github.io/blog/ubuntu-deb/">http://qxxqxx.github.io/blog/ubuntu-deb/</a>   （建议看完此文，再看本文）</h3></blockquote>
+<h3>2.认识什么是.deb  请看我的第 2 篇教程：<a href="http://qxxqxx.com/blog/ubuntu-deb/">http://qxxqxx.com/blog/ubuntu-deb/</a>   （建议看完此文，再看本文）</h3></blockquote>
 
 <p>====================================================================================================</p>
 
@@ -263,7 +263,7 @@
 
 <h1>电脑上：(我的系统是mac os x，且已安装fink)</h1>
 
-<blockquote><h2>1.创建需要 同 放置汉化.strings路径一样 的 文件夹 （看完我的第一篇教程：<a href="http://qxxqxx.github.io/blog/hanhua/">http://qxxqxx.github.io/blog/hanhua/</a>）</h2>
+<blockquote><h2>1.创建需要 同 放置汉化.strings路径一样 的 文件夹 （看完我的第一篇教程：<a href="http://qxxqxx.com/blog/hanhua/">http://qxxqxx.com/blog/hanhua/</a>）</h2>
 
 <h3>现在我正在制作 DietBulletin汉化包 ，汉化.strings 需要放到 /Library/PreferenceLoader/Preferences/zh_CN.lproj 里。。看图</h3>
 
@@ -271,7 +271,7 @@
 
 <h2>2.创建DEBIAN文件夹（在此deb文件夹的根目录）并在里面创建 control 文件</h2>
 
-<h3>（看我的第二篇教程：<a href="http://qxxqxx.github.io/blog/ubuntu-deb/">http://qxxqxx.github.io/blog/ubuntu-deb/</a>）</h3>
+<h3>（看我的第二篇教程：<a href="http://qxxqxx.com/blog/ubuntu-deb/">http://qxxqxx.com/blog/ubuntu-deb/</a>）</h3>
 
 <p><img src="/images/deb-CN/4.png" alt="" /><br/>
 <img src="/images/deb-CN/5.png" alt="" /></p>
@@ -327,7 +327,7 @@
 
 <h1>请尊重作者劳动，随手回复(在最下面)</h1>
 
-<h3>如何汉化插件？   请看我的第一篇教程：  <a href="http://qxxqxx.github.io/blog/hanhua/">http://qxxqxx.github.io/blog/hanhua/</a></h3></blockquote>
+<h3>如何汉化插件？   请看我的第一篇教程：  <a href="http://qxxqxx.com/blog/hanhua/">http://qxxqxx.com/blog/hanhua/</a></h3></blockquote>
 
 <p>====================================================================================================</p>
 
@@ -337,9 +337,9 @@
 
 <h2>6月1日      更新打包deb  例子1</h2>
 
-<h2>6月1日    deb制作教程:   <a href="http://qxxqxx.github.io/blog/ubuntu-deb/">http://qxxqxx.github.io/blog/ubuntu-deb/</a></h2>
+<h2>6月1日    deb制作教程:   <a href="http://qxxqxx.com/blog/ubuntu-deb/">http://qxxqxx.com/blog/ubuntu-deb/</a></h2>
 
-<h2>7月22日  更新插件汉化包在ios上的制作方法 ：<a href="http://qxxqxx.github.io/blog/deb-cn/">http://qxxqxx.github.io/blog/deb-cn/</a></h2></blockquote></blockquote>
+<h2>7月22日  更新插件汉化包在ios上的制作方法 ：<a href="http://qxxqxx.com/blog/deb-cn/">http://qxxqxx.com/blog/deb-cn/</a></h2></blockquote></blockquote>
 
 <!--more-->
 
@@ -502,7 +502,7 @@ Author: qxxqxx &lt;&gt;
 
 <h1>例子2   制作插件汉化补丁</h1>
 
-<h2>已开新贴：<a href="http://qxxqxx.github.io/blog/deb-cn/">http://qxxqxx.github.io/blog/deb-cn/</a></h2>
+<h2>已开新贴：<a href="http://qxxqxx.com/blog/deb-cn/">http://qxxqxx.com/blog/deb-cn/</a></h2>
 
 <p>====================================================================================================</p>
 
@@ -515,7 +515,7 @@ Author: qxxqxx &lt;&gt;
     <link href="http://qxxqxx.com/blog/hanhua/"/>
     <updated>2013-03-02T09:57:00+08:00</updated>
     <id>http://qxxqxx.com/blog/hanhua</id>
-    <content type="html"><![CDATA[<blockquote><h3><li>转载请标明出处：<a href="http://qxxqxx.github.io/blog/hanhua/">http://qxxqxx.github.io/blog/hanhua/</a></h3>
+    <content type="html"><![CDATA[<blockquote><h3><li>转载请标明出处：<a href="http://qxxqxx.com/blog/hanhua/">http://qxxqxx.com/blog/hanhua/</a></h3>
 
 <h3><li>请大家支持正版，使用正版软件，插件</h3>
 
@@ -537,9 +537,9 @@ Author: qxxqxx &lt;&gt;
 
 <h2>4月12日  送上本人照片流</h2>
 
-<h2>6月1日   deb制作教程：<a href="http://qxxqxx.github.io/blog/ubuntu-deb/">http://qxxqxx.github.io/blog/ubuntu-deb/</a></h2>
+<h2>6月1日   deb制作教程：<a href="http://qxxqxx.com/blog/ubuntu-deb/">http://qxxqxx.com/blog/ubuntu-deb/</a></h2>
 
-<h2>7月22日  更新插件汉化包在ios上的制作方法 ：<a href="http://qxxqxx.github.io/blog/deb-cn/">http://qxxqxx.github.io/blog/deb-cn/</a></h2></blockquote></blockquote>
+<h2>7月22日  更新插件汉化包在ios上的制作方法 ：<a href="http://qxxqxx.com/blog/deb-cn/">http://qxxqxx.com/blog/deb-cn/</a></h2></blockquote></blockquote>
 
 <!--more-->
 
