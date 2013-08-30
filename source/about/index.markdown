@@ -16,7 +16,7 @@ footer: true
 #<li>善于搞机😠😠😠
 
 
-#<li>有关ios,android,VB .NET,vbs的问题可以问我😠😠😠呵呵
+#<li>有关iOS,Android,VB .NET,vbs的问题可以问我😠😠😠呵呵
 
 
 
@@ -25,8 +25,7 @@ footer: true
 #<li>Weiphone ID: qxxqxx
 
 
-#<br/><br/><li>本站网址：<http://qxxqxx.com>
-#<li>查看本站二维码：<http://qxxqxx.com/qrcode>
+#<br/><br/><li>本站网址：[qxxqxx.com](http://qxxqxx.com)【[查看本站二维码](http://qxxqxx.com/qrcode)】
 
 
 <br/><footer id="footer" class="inner">{% include footer.html %}</footer>

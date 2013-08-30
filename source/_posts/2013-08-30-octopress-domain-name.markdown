@@ -11,11 +11,13 @@ categories: Octopress 教程
 
 <br/>1. 首先，你要注册一个域名……这个就不多说了，自己Google去吧。
 
-2.在`/source`里面，创建一个名为`CNAME`的无后缀文本，在里面填写你自己注册的域名。
+2.修改你的域名的 `A记录` ，修改为`207.97.227.245`
+
+3.在`/source`里面，创建一个名为`CNAME`的无后缀文本，在里面填写你自己注册的域名。
 
 ![CNAME](/images/octopress-domain-name/1.png)
 
-3.修改`_config.yml`，把第一行的`url`修改为你注册的域名。
+4.修改`_config.yml`，把第一行的`url`修改为你注册的域名。
 
 ![CNAME](/images/octopress-domain-name/2.png)
 
