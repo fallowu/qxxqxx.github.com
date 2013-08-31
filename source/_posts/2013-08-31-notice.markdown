@@ -1,0 +1,26 @@
+---
+layout: post
+title: "【本网站域名 通告】"
+date: 2013-08-31 15:46
+comments: true
+categories: 其他
+---
+<li>本站现在有5个域名,随便访问一个均可访问本站，是不是很好记啊，哈哈哈。
+<li>开学之前最后的折腾，开学后就很少弄了。。。。
+
+<li>本站网址：（[查看本站二维码](http://qxxqxx.com/qrcode)）
+##[qxxqxx.com](http://qxxqxx.com)
+
+##[qxxqxx.ml](http://qxxqxx.ml)
+
+##[qxxqxx.ga](http://qxxqxx.ga)
+
+##[qxxqxx.tk](http://qxxqxx.tk)
+
+##[qxxqxx.cf](http://qxxqxx.cf)
+
+
+<li>本网站RSS订阅地址：（已更新）
+<http://qxxqxx.com/rss>
+
+（[点击这里添加iOS桌面图标](/images/octopress-webclip/add-webclip.mobileconfig)）

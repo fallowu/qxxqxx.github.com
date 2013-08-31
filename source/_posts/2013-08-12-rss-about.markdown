@@ -6,9 +6,9 @@ comments: true
 categories: 其他 RSS
 ---
 >#<li>本网站RSS订阅地址：
->##<br/><li><http://qxxqxx.com/rss>
+>##<li><http://qxxqxx.com/rss>
 
 #<br/><li>欢迎订阅
 
->##iOS端推荐RSS阅读器：Reeder
->###App store:<http://itunes.apple.com/cn/app/reeder/id325502379?mt=8>
+>iOS端推荐RSS阅读器：Reeder
+>App store: <http://itunes.apple.com/cn/app/reeder/id325502379?mt=8>

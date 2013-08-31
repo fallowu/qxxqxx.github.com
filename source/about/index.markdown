@@ -25,7 +25,16 @@ footer: true
 #<li>Weiphone ID: qxxqxx
 
 
-#<br/><br/><li>本站网址：[qxxqxx.com](http://qxxqxx.com)【[查看本站二维码](http://qxxqxx.com/qrcode)】
+#<br/><br/><li>本站网址：（[查看本站二维码](http://qxxqxx.com/qrcode)）
+##[qxxqxx.com](http://qxxqxx.com)
+
+##[qxxqxx.ml](http://qxxqxx.ml)
+
+##[qxxqxx.ga](http://qxxqxx.ga)
+
+##[qxxqxx.tk](http://qxxqxx.tk)
+
+##[qxxqxx.cf](http://qxxqxx.cf)
 
 
 <br/><footer id="footer" class="inner">{% include footer.html %}</footer>

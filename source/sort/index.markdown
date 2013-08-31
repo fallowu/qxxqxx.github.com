@@ -26,4 +26,4 @@ footer: true
 
 <li>[视频 [ 3 ]](/blog/categories/shi-pin/)
 
-<li>[其他 [ 3 ]](/blog/categories/qi-ta/)
+<li>[其他 [ 4 ]](/blog/categories/qi-ta/)
