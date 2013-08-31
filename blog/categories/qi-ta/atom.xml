@@ -4,7 +4,7 @@
   <title><![CDATA[Category: 其他 | 我系蚯蚓啊's Blog]]></title>
   <link href="http://qxxqxx.com/blog/categories/qi-ta/atom.xml" rel="self"/>
   <link href="http://qxxqxx.com/"/>
-  <updated>2013-08-31T15:51:31+08:00</updated>
+  <updated>2013-08-31T16:29:55+08:00</updated>
   <id>http://qxxqxx.com/</id>
   <author>
     <name><![CDATA[邱星翔]]></name>
@@ -33,6 +33,9 @@
 
 <h2><a href="http://qxxqxx.cf">qxxqxx.cf</a></h2>
 
+<p><li>本网站RSS订阅地址：（已更新）
+<a href="http://qxxqxx.com/rss">http://qxxqxx.com/rss</a></p>
+
 <p>（<a href="/images/octopress-webclip/add-webclip.mobileconfig">点击这里添加iOS桌面图标</a>）</p>
 ]]></content>
   </entry>
@@ -44,13 +47,12 @@
     <id>http://qxxqxx.com/blog/rss-about</id>
     <content type="html"><![CDATA[<blockquote><h1><li>本网站RSS订阅地址：</h1>
 
-<h2><br/><li><a href="http://qxxqxx.com/rss">http://qxxqxx.com/rss</a></h2></blockquote>
+<h2><li><a href="http://qxxqxx.com/rss">http://qxxqxx.com/rss</a></h2></blockquote>
 
 <h1><br/><li>欢迎订阅</h1>
 
-<blockquote><h2>iOS端推荐RSS阅读器：Reeder</h2>
-
-<h3>App store:<a href="http://itunes.apple.com/cn/app/reeder/id325502379?mt=8">http://itunes.apple.com/cn/app/reeder/id325502379?mt=8</a></h3></blockquote>
+<blockquote><p>iOS端推荐RSS阅读器：Reeder
+App store: <a href="http://itunes.apple.com/cn/app/reeder/id325502379?mt=8">http://itunes.apple.com/cn/app/reeder/id325502379?mt=8</a></p></blockquote>
 ]]></content>
   </entry>
   
